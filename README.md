@@ -1,3 +1,5 @@
+Go visit https://jvm123.github.io/sterbefallzahlen_viz/ to see the page with plots.
+
 ## Intro
 
 This page shows visualizations of the death counts per cause of death in the time frame 2000 to 2022 for Germany.
