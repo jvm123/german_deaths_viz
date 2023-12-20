@@ -12,7 +12,7 @@ Most developments have a plausible and simple reason. E.g., the apparently worse
 Also, the size of the respective age groups vary from year to year, and this was **not** adjusted for. E.g., when more children are born, more deaths in the age group <20 will be observed, and the development in the graphics does therefore not necessarily indicate any change in the environment.
 
 ## Data sources
-The source of the case numbers is [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure).
+The source of the case numbers is [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (search for "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
 Population data are from [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
 
