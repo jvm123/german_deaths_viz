@@ -4,9 +4,9 @@ This page shows visualizations of the death counts per cause of death in the tim
 
 Each graph shows the development over time. The total death count "Insgesamt" is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
 
-<em>(Diese Seite zeigt Visualisierungen der Anzahl der Todesfälle pro Todesursache im Zeitraum 2000 bis 2022 für Deutschland.
+<em>(Diese Seite zeigt Visualisierungen der Anzahl der Todesfälle pro Todesursache im Zeitraum 2000 bis 2022 für Deutschland.</em>
 
-Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe normiert.)</em>
+<em>Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe normiert.)</em>
 
 ## Interpretation of the data
 Be careful when interpreting these data! First, scales in the graphs vary.
@@ -15,11 +15,11 @@ Most developments have a plausible and simple reason. E.g., the apparently worse
 
 Also, the size of the respective age groups vary from year to year, and this was **not** adjusted for. E.g., when more children are born, more deaths in the age group <20 will be observed, and the development in the graphics does therefore not necessarily indicate any change in the environment.
 
-<em>(Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich.
+<em>(Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich.</em>
 
-Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.
+<em>Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.</em>
 
-Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und dies wurde **nicht** bereinigt. Wenn z.B. mehr Kinder geboren werden, werden auch mehr Todesfälle in der Altersgruppe <20 zu beobachten sein, und die Entwicklung in den Grafiken deutet daher nicht unbedingt auf eine Veränderung in der Umwelt hin.)</em>
+<em>Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und dies wurde **nicht** bereinigt. Wenn z.B. mehr Kinder geboren werden, werden auch mehr Todesfälle in der Altersgruppe <20 zu beobachten sein, und die Entwicklung in den Grafiken deutet daher nicht unbedingt auf eine Veränderung in der Umwelt hin.)</em>
 
 ## Data sources
 The source of the case numbers is [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (search for "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
