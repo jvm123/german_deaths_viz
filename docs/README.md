@@ -4,12 +4,22 @@ This page shows visualizations of the death counts per cause of death in the tim
 
 Each graph shows the development over time. The total death count "Insgesamt" is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
 
+<em>(Diese Seite zeigt Visualisierungen der Anzahl der Todesfälle pro Todesursache im Zeitraum 2000 bis 2022 für Deutschland.
+
+Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe normiert.)</em>
+
 ## Interpretation of the data
-Be careful when interpreting these data!
+Be careful when interpreting these data! First, scales in the graphs vary.
 
 Most developments have a plausible and simple reason. E.g., the apparently worsening situation for the age group 80+ is a simple consequence of the average age in that age group increasing.
 
 Also, the size of the respective age groups vary from year to year, and this was **not** adjusted for. E.g., when more children are born, more deaths in the age group <20 will be observed, and the development in the graphics does therefore not necessarily indicate any change in the environment.
+
+<em>(Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich.
+
+Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.
+
+Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und dies wurde **nicht** bereinigt. Wenn z.B. mehr Kinder geboren werden, werden auch mehr Todesfälle in der Altersgruppe <20 zu beobachten sein, und die Entwicklung in den Grafiken deutet daher nicht unbedingt auf eine Veränderung in der Umwelt hin.)</em>
 
 ## Data sources
 The source of the case numbers is [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (search for "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
@@ -38,57 +48,91 @@ Population data are from [Bundesinstitut für Bevölkerungsforschung](https://ww
 ![Asthma](/sterbefallzahlen_viz/assets/img/sterbefaelle_Asthma.png)
 
 ## Sterbefallzahlen: BN d. Larynx, d. Trachea, d. Bronchien u. d. Lunge
+BN = Bösartige Neubildung
+
 ![BN d. Larynx, d. Trachea, d. Bronchien u. d. Lunge](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_d_Larynx,_d_Trachea,_d_Bronchien_u_d_Lunge.png)
 
 ## Sterbefallzahlen: BN d. lymphat., blutbild. u. verwandten Gewebes
+BN = Bösartige Neubildung
+
 ![BN d. lymphat., blutbild. u. verwandten Gewebes](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_d_lymphat,_blutbild_u_verwandten_Gewebes.png)
 
 ## Sterbefallzahlen: BN der Bronchien und der Lunge
+BN = Bösartige Neubildung
+
 ![BN der Bronchien und der Lunge](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Bronchien_und_der_Lunge.png)
 
 ## Sterbefallzahlen: BN der Brustdrüse
+BN = Bösartige Neubildung
+
 ![BN der Brustdrüse](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Brustdrüse.png)
 
 ## Sterbefallzahlen: BN der Cervix uteri
+BN = Bösartige Neubildung
+
 ![BN der Cervix uteri](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Cervix_uteri.png)
 
 ## Sterbefallzahlen: BN der Genital. und Harnorgane
+BN = Bösartige Neubildung
+
 ![BN der Genital. und Harnorgane](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Genital_und_Harnorgane.png)
 
 ## Sterbefallzahlen: BN der Harnblase
+BN = Bösartige Neubildung
+
 ![BN der Harnblase](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Harnblase.png)
 
 ## Sterbefallzahlen: BN der Leber und der intrahepatischen Gallengänge
+BN = Bösartige Neubildung
+
 ![BN der Leber und der intrahepatischen Gallengänge](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Leber_und_der_intrahepatischen_Gallengänge.png)
 
 ## Sterbefallzahlen: BN der Leber, der Gallenwege und des Pankreas
+BN = Bösartige Neubildung
+
 ![BN der Leber, der Gallenwege und des Pankreas](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Leber,_der_Gallenwege_und_des_Pankreas.png)
 
 ## Sterbefallzahlen: BN der Lippe, der Mundhöhle und des Pharynx
+BN = Bösartige Neubildung
+
 ![BN der Lippe, der Mundhöhle und des Pharynx](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Lippe,_der_Mundhöhle_und_des_Pharynx.png)
 
 ## Sterbefallzahlen: BN der Niere, ausgenommen Nierenbecken
+BN = Bösartige Neubildung
+
 ![BN der Niere, ausgenommen Nierenbecken](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Niere,_ausgenommen_Nierenbecken.png)
 
 ## Sterbefallzahlen: BN der Prostata
+BN = Bösartige Neubildung
+
 ![BN der Prostata](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Prostata.png)
 
 ## Sterbefallzahlen: BN des Corpus uteri u. Uterus, Teil n.n. bezeichn.
+BN = Bösartige Neubildung
+
 ![BN des Corpus uteri u. Uterus, Teil n.n. bezeichn.](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Corpus_uteri_u_Uterus,_Teil_nn_bezeichn.png)
 
 ## Sterbefallzahlen: BN des Dickdarms
+BN = Bösartige Neubildung
+
 ![BN des Dickdarms](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Dickdarms.png)
 
 ## Sterbefallzahlen: BN des Magens
+BN = Bösartige Neubildung
+
 ![BN des Magens](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Magens.png)
 
 ## Sterbefallzahlen: BN des Ovars
+BN = Bösartige Neubildung
+
 ![BN des Ovars](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Ovars.png)
 
 ## Sterbefallzahlen: BN des Pankreas
 ![BN des Pankreas](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Pankreas.png)
 
 ## Sterbefallzahlen: BN des Rektums, des Anus und am Rektosigmoid
+BN = Bösartige Neubildung
+
 ![BN des Rektums, des Anus und am Rektosigmoid](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Rektums,_des_Anus_und_am_Rektosigmoid.png)
 
 ## Sterbefallzahlen: BN des Ösophagus
