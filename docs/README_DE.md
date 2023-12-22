@@ -1,4 +1,4 @@
-Sprache: [ ] [English](/) [x] Deutsch
+Sprache: [ ] [English](/sterbefallzahlen_viz/) [x] Deutsch
 
 ## Intro
 
