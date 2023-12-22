@@ -14,11 +14,12 @@ Most developments have a plausible and simple reason. E.g., the apparently worse
 Also, the size of the respective age groups vary from year to year, and this was **not** adjusted for. E.g., when more children are born, more deaths in the age group <20 will be observed, and the development in the graphics does therefore not necessarily indicate any change in the environment.
 
 ## Data sources
-Source code, file history and the raw data can be found in the corresponding [GitHub repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
-The source of the case numbers is [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (search for "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
+The source of the case numbers is [Statistisches Bundesamt (Destatis), Genesis-Online](https://www-genesis.destatis.de/genesis/online#astructure) (search for: "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen", Abrufdatum 17.12.2023), [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0).
+
 Population data are from [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
+[Lorenz Borsche](https://borsche.de/) asked me to create the visualizations on this page. Source code, file history and the raw data can be found in the corresponding [GitHub repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
 ## Sterbefallzahlen: Akuter oder rezidivierender Myokardinfarkt
 ![Akuter oder rezidivierender Myokardinfarkt](/sterbefallzahlen_viz/assets/img/sterbefaelle_Akuter_oder_rezidivierender_Myokardinfarkt.png)
