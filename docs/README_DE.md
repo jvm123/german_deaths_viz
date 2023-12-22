@@ -1,18 +1,22 @@
 Sprache: [ ] [English](/sterbefallzahlen_viz/) [x] Deutsch
 
+# Sterbefallzahlen nach Ursache in Deutschland 2000-2022
+
 ## Intro
 
 Diese Seite zeigt Visualisierungen der Anzahl der Todesfälle pro Todesursache im Zeitraum 2000 bis 2022 für Deutschland.
 
 Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe normiert.
 
+<em>-- Julian von Mendel, Dez 2023</em>
+
 ## Interpretation der Daten
 
 Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich. Ein Beispiel dafür sind die ersten zwei Grafiken: Es gibt 2022 etwa 40x mehr Todesfälle für den akuten oder rezidivierenden Myokardinfarkt als für akzid. Vergiftung. Dies kann nur an der Skala abgelesen werden.
 
-Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.
+Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ auch eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.
 
-Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und dies wurde **nicht** bereinigt. Wenn z.B. mehr Kinder geboren werden, werden auch mehr Todesfälle in der Altersgruppe <20 zu beobachten sein, und die Entwicklung in den Grafiken deutet daher nicht unbedingt auf eine Veränderung in der Umwelt hin.)
+Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und dies wurde **nicht** bereinigt. Wenn z.B. mehr Kinder geboren werden, werden auch mehr Todesfälle in der Altersgruppe <20 zu beobachten sein, und die Entwicklung in den Grafiken deutet daher nicht unbedingt auf eine Veränderung in der Umwelt hin.
 
 ## Datenquellen / Transparenz
 
@@ -20,7 +24,7 @@ Die Quelle der Fallzahlen ist das [Statistisches Bundesamt (Destatis), Genesis-O
 
 Die Bevölkerungsdaten stammen vom [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
-[Lorenz Borsche](https://borsche.de/) bat mich, die Visualisierungen auf dieser Seite zu erzeugen. Quellcode, Dateihistorie und die aufbereiteten Destatis-Rohdaten finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
+[Lorenz Borsche](https://borsche.de/page/news) bat mich, die Visualisierungen auf dieser Seite zu erzeugen. Quellcode, Dateihistorie und die aufbereiteten Destatis-Rohdaten finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
 ## Sterbefallzahlen: Akuter oder rezidivierender Myokardinfarkt
 ![Akuter oder rezidivierender Myokardinfarkt](/sterbefallzahlen_viz/assets/img/sterbefaelle_Akuter_oder_rezidivierender_Myokardinfarkt.png)

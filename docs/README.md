@@ -1,15 +1,19 @@
 Language: [x] English [ ] [Deutsch](README_DE)
 
+# Death Count by Cause, Germany, 2000-2022
+
 ## Intro
 
 This page shows visualizations of the death counts per cause of death in the time frame 2000 to 2022 for Germany.
 
 Each graph shows the development over time. The total death count "Insgesamt" is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
 
+<em>-- Julian von Mendel, Dec 2023</em>
+
 ## Interpretation of the data
 Be careful when interpreting these data! First, scales in the graphs vary. An example for this are the first two graphics: There are about 40 times as many deaths for acute or recurrent myocardial infarction than for acid. poisoning. You can only tell that by looking at the scale.
 
-Most developments have a plausible and simple reason. E.g., the apparently worsening situation for the age group 80+ is a simple consequence of the average age in that age group increasing.
+Most developments have a plausible and simple reason. E.g., the apparently worsening situation for the age group 80+ is largely a simple consequence of the average age in that age group increasing.
 
 Also, the size of the respective age groups vary from year to year, and this was **not** adjusted for. E.g., when more children are born, more deaths in the age group <20 will be observed, and the development in the graphics does therefore not necessarily indicate any change in the environment.
 
@@ -19,285 +23,252 @@ The source of the case numbers is [Statistisches Bundesamt (Destatis), Genesis-O
 
 Population data are from [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
-[Lorenz Borsche](https://borsche.de/) asked me to create the visualizations on this page. Source code, file history and the raw data can be found in the corresponding [GitHub repository](https://github.com/jvm123/sterbefallzahlen_viz).
+[Lorenz Borsche](https://borsche.de/page/news) asked me to create the visualizations on this page. Source code, file history and the raw data can be found in the corresponding [GitHub repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
-## Sterbefallzahlen: Akuter oder rezidivierender Myokardinfarkt
-![Akuter oder rezidivierender Myokardinfarkt](/sterbefallzahlen_viz/assets/img/sterbefaelle_Akuter_oder_rezidivierender_Myokardinfarkt.png)
+## Cause of death: Accidental poisoning: harmful substances (incl. exposure)
+![Accidental poisoning: harmful substances (incl. exposure)](docs/images/deaths_Accidental_poisoning:_harmful_substances_(incl_exposure).png)
 
-## Sterbefallzahlen: Akzid. Vergiftung: schädl. Substanzen (inkl. Exp.)
-![Akzid. Vergiftung: schädl. Substanzen (inkl. Exp.)](/sterbefallzahlen_viz/assets/img/sterbefaelle_Akzid_Vergiftung:_schädl_Substanzen_(inkl_Exp).png)
+## Cause of death: Accidents including late effects
+![Accidents including late effects](docs/images/deaths_Accidents_including_late_effects.png)
 
-## Sterbefallzahlen: Alkoh.Leberkh.,Chron.Hepatitis,Leberfibr.u..zirr.
-![Alkoh.Leberkh.,Chron.Hepatitis,Leberfibr.u..zirr.](/sterbefallzahlen_viz/assets/img/sterbefaelle_AlkohLeberkh,ChronHepatitis,Leberfibruzirr.png)
+## Cause of death: Acute or recurrent myocardial infarction
+![Acute or recurrent myocardial infarction](docs/images/deaths_Acute_or_recurrent_myocardial_infarction.png)
 
-## Sterbefallzahlen: Angeb. Fehlbildungen,Deformitäten,Chromosomenanom.
-![Angeb. Fehlbildungen,Deformitäten,Chromosomenanom.](/sterbefallzahlen_viz/assets/img/sterbefaelle_Angeb_Fehlbildungen,Deformitäten,Chromosomenanom.png)
+## Cause of death: Alcoholic liver disease, chronic hepatitis, liver fibrosis, and cirrhosis
+![Alcoholic liver disease, chronic hepatitis, liver fibrosis, and cirrhosis](docs/images/deaths_Alcoholic_liver_disease,_chronic_hepatitis,_liver_fibrosis,_and_cirrhosis.png)
 
-## Sterbefallzahlen: Angeborene Fehlbildungen des Kreislaufsystems
-![Angeborene Fehlbildungen des Kreislaufsystems](/sterbefallzahlen_viz/assets/img/sterbefaelle_Angeborene_Fehlbildungen_des_Kreislaufsystems.png)
+## Cause of death: Assault
+![Assault](docs/images/deaths_Assault.png)
 
-## Sterbefallzahlen: Angeborene Fehlbildungen des Nervensystems
-![Angeborene Fehlbildungen des Nervensystems](/sterbefallzahlen_viz/assets/img/sterbefaelle_Angeborene_Fehlbildungen_des_Nervensystems.png)
+## Cause of death: Asthma
+![Asthma](docs/images/deaths_Asthma.png)
 
-## Sterbefallzahlen: Asthma
-![Asthma](/sterbefallzahlen_viz/assets/img/sterbefaelle_Asthma.png)
+## Cause of death: Benign neoplasms
+![Benign neoplasms](docs/images/deaths_Benign_neoplasms.png)
 
-## Sterbefallzahlen: BN d. Larynx, d. Trachea, d. Bronchien u. d. Lunge
-BN = Bösartige Neubildung
+## Cause of death: COVID-19, virus identified
+![COVID-19, virus identified](docs/images/deaths_COVID-19,_virus_identified.png)
 
-![BN d. Larynx, d. Trachea, d. Bronchien u. d. Lunge](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_d_Larynx,_d_Trachea,_d_Bronchien_u_d_Lunge.png)
+## Cause of death: COVID-19, virus not identified
+![COVID-19, virus not identified](docs/images/deaths_COVID-19,_virus_not_identified.png)
 
-## Sterbefallzahlen: BN d. lymphat., blutbild. u. verwandten Gewebes
-BN = Bösartige Neubildung
+## Cause of death: Cerebrovascular diseases
+![Cerebrovascular diseases](docs/images/deaths_Cerebrovascular_diseases.png)
 
-![BN d. lymphat., blutbild. u. verwandten Gewebes](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_d_lymphat,_blutbild_u_verwandten_Gewebes.png)
+## Cause of death: Certain conditions originating in the perinatal period
+![Certain conditions originating in the perinatal period](docs/images/deaths_Certain_conditions_originating_in_the_perinatal_period.png)
 
-## Sterbefallzahlen: BN der Bronchien und der Lunge
-BN = Bösartige Neubildung
+## Cause of death: Certain infectious and parasitic diseases
+![Certain infectious and parasitic diseases](docs/images/deaths_Certain_infectious_and_parasitic_diseases.png)
 
-![BN der Bronchien und der Lunge](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Bronchien_und_der_Lunge.png)
+## Cause of death: Chronic diseases of the lower respiratory tract
+![Chronic diseases of the lower respiratory tract](docs/images/deaths_Chronic_diseases_of_the_lower_respiratory_tract.png)
 
-## Sterbefallzahlen: BN der Brustdrüse
-BN = Bösartige Neubildung
+## Cause of death: Chronic polyarthritis and arthrosis
+![Chronic polyarthritis and arthrosis](docs/images/deaths_Chronic_polyarthritis_and_arthrosis.png)
 
-![BN der Brustdrüse](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Brustdrüse.png)
+## Cause of death: Congenital malformations of the circulatory system
+![Congenital malformations of the circulatory system](docs/images/deaths_Congenital_malformations_of_the_circulatory_system.png)
 
-## Sterbefallzahlen: BN der Cervix uteri
-BN = Bösartige Neubildung
+## Cause of death: Congenital malformations of the nervous system
+![Congenital malformations of the nervous system](docs/images/deaths_Congenital_malformations_of_the_nervous_system.png)
 
-![BN der Cervix uteri](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Cervix_uteri.png)
+## Cause of death: Congenital malformations, deformations, and chromosomal abnormalities
+![Congenital malformations, deformations, and chromosomal abnormalities](docs/images/deaths_Congenital_malformations,_deformations,_and_chromosomal_abnormalities.png)
 
-## Sterbefallzahlen: BN der Genital. und Harnorgane
-BN = Bösartige Neubildung
+## Cause of death: Diabetes mellitus
+![Diabetes mellitus](docs/images/deaths_Diabetes_mellitus.png)
 
-![BN der Genital. und Harnorgane](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Genital_und_Harnorgane.png)
+## Cause of death: Diseases of arteries, arterioles, and capillaries
+![Diseases of arteries, arterioles, and capillaries](docs/images/deaths_Diseases_of_arteries,_arterioles,_and_capillaries.png)
 
-## Sterbefallzahlen: BN der Harnblase
-BN = Bösartige Neubildung
+## Cause of death: Diseases of the blood and blood-forming organs
+![Diseases of the blood and blood-forming organs](docs/images/deaths_Diseases_of_the_blood_and_blood-forming_organs.png)
 
-![BN der Harnblase](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Harnblase.png)
+## Cause of death: Diseases of the circulatory system
+![Diseases of the circulatory system](docs/images/deaths_Diseases_of_the_circulatory_system.png)
 
-## Sterbefallzahlen: BN der Leber und der intrahepatischen Gallengänge
-BN = Bösartige Neubildung
+## Cause of death: Diseases of the digestive system
+![Diseases of the digestive system](docs/images/deaths_Diseases_of_the_digestive_system.png)
 
-![BN der Leber und der intrahepatischen Gallengänge](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Leber_und_der_intrahepatischen_Gallengänge.png)
+## Cause of death: Diseases of the genitourinary system
+![Diseases of the genitourinary system](docs/images/deaths_Diseases_of_the_genitourinary_system.png)
 
-## Sterbefallzahlen: BN der Leber, der Gallenwege und des Pankreas
-BN = Bösartige Neubildung
+## Cause of death: Diseases of the kidney
+![Diseases of the kidney](docs/images/deaths_Diseases_of_the_kidney.png)
 
-![BN der Leber, der Gallenwege und des Pankreas](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Leber,_der_Gallenwege_und_des_Pankreas.png)
+## Cause of death: Diseases of the liver
+![Diseases of the liver](docs/images/deaths_Diseases_of_the_liver.png)
 
-## Sterbefallzahlen: BN der Lippe, der Mundhöhle und des Pharynx
-BN = Bösartige Neubildung
+## Cause of death: Diseases of the musculoskeletal system and connective tissue
+![Diseases of the musculoskeletal system and connective tissue](docs/images/deaths_Diseases_of_the_musculoskeletal_system_and_connective_tissue.png)
 
-![BN der Lippe, der Mundhöhle und des Pharynx](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Lippe,_der_Mundhöhle_und_des_Pharynx.png)
+## Cause of death: Diseases of the nervous system and sense organs
+![Diseases of the nervous system and sense organs](docs/images/deaths_Diseases_of_the_nervous_system_and_sense_organs.png)
 
-## Sterbefallzahlen: BN der Niere, ausgenommen Nierenbecken
-BN = Bösartige Neubildung
+## Cause of death: Diseases of the respiratory system
+![Diseases of the respiratory system](docs/images/deaths_Diseases_of_the_respiratory_system.png)
 
-![BN der Niere, ausgenommen Nierenbecken](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Niere,_ausgenommen_Nierenbecken.png)
+## Cause of death: Diseases of the skin and subcutaneous tissue
+![Diseases of the skin and subcutaneous tissue](docs/images/deaths_Diseases_of_the_skin_and_subcutaneous_tissue.png)
 
-## Sterbefallzahlen: BN der Prostata
-BN = Bösartige Neubildung
+## Cause of death: Drowning and submersion
+![Drowning and submersion](docs/images/deaths_Drowning_and_submersion.png)
 
-![BN der Prostata](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_der_Prostata.png)
+## Cause of death: Endocrine, nutritional, and metabolic diseases
+![Endocrine, nutritional, and metabolic diseases](docs/images/deaths_Endocrine,_nutritional,_and_metabolic_diseases.png)
 
-## Sterbefallzahlen: BN des Corpus uteri u. Uterus, Teil n.n. bezeichn.
-BN = Bösartige Neubildung
+## Cause of death: Event of undetermined intent
+![Event of undetermined intent](docs/images/deaths_Event_of_undetermined_intent.png)
 
-![BN des Corpus uteri u. Uterus, Teil n.n. bezeichn.](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Corpus_uteri_u_Uterus,_Teil_nn_bezeichn.png)
+## Cause of death: Exposure to smoke, fire, and flames
+![Exposure to smoke, fire, and flames](docs/images/deaths_Exposure_to_smoke,_fire,_and_flames.png)
 
-## Sterbefallzahlen: BN des Dickdarms
-BN = Bösartige Neubildung
+## Cause of death: External causes of morbidity and mortality
+![External causes of morbidity and mortality](docs/images/deaths_External_causes_of_morbidity_and_mortality.png)
 
-![BN des Dickdarms](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Dickdarms.png)
+## Cause of death: Falls
+![Falls](docs/images/deaths_Falls.png)
 
-## Sterbefallzahlen: BN des Magens
-BN = Bösartige Neubildung
+## Cause of death: HIV disease
+![HIV disease](docs/images/deaths_HIV_disease.png)
 
-![BN des Magens](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Magens.png)
+## Cause of death: Hypertension (high blood pressure)
+![Hypertension (high blood pressure)](docs/images/deaths_Hypertension_(high_blood_pressure).png)
 
-## Sterbefallzahlen: BN des Ovars
-BN = Bösartige Neubildung
+## Cause of death: Influenza
+![Influenza](docs/images/deaths_Influenza.png)
 
-![BN des Ovars](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Ovars.png)
+## Cause of death: Insgesamt
+![Insgesamt](docs/images/deaths_Insgesamt.png)
 
-## Sterbefallzahlen: BN des Pankreas
-![BN des Pankreas](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Pankreas.png)
+## Cause of death: Intentional self-harm
+![Intentional self-harm](docs/images/deaths_Intentional_self-harm.png)
 
-## Sterbefallzahlen: BN des Rektums, des Anus und am Rektosigmoid
-BN = Bösartige Neubildung
+## Cause of death: Ischemic heart diseases
+![Ischemic heart diseases](docs/images/deaths_Ischemic_heart_diseases.png)
 
-![BN des Rektums, des Anus und am Rektosigmoid](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Rektums,_des_Anus_und_am_Rektosigmoid.png)
+## Cause of death: Leukemia
+![Leukemia](docs/images/deaths_Leukemia.png)
 
-## Sterbefallzahlen: BN des Ösophagus
-![BN des Ösophagus](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Ösophagus.png)
+## Cause of death: Malignant melanoma of the skin
+![Malignant melanoma of the skin](docs/images/deaths_Malignant_melanoma_of_the_skin.png)
 
-## Sterbefallzahlen: Best.Zustände mit Ursprung in der Perinatalperiode
-![Best.Zustände mit Ursprung in der Perinatalperiode](/sterbefallzahlen_viz/assets/img/sterbefaelle_BestZustände_mit_Ursprung_in_der_Perinatalperiode.png)
+## Cause of death: Malignant neoplasms
+![Malignant neoplasms](docs/images/deaths_Malignant_neoplasms.png)
 
-## Sterbefallzahlen: Bestimmte infektiöse und parasitäre Krankheiten
-![Bestimmte infektiöse und parasitäre Krankheiten](/sterbefallzahlen_viz/assets/img/sterbefaelle_Bestimmte_infektiöse_und_parasitäre_Krankheiten.png)
+## Cause of death: Melanoma and other malignant neoplasms of the skin
+![Melanoma and other malignant neoplasms of the skin](docs/images/deaths_Melanoma_and_other_malignant_neoplasms_of_the_skin.png)
 
-## Sterbefallzahlen: Bösartige Neubildungen (BN)
-![Bösartige Neubildungen (BN)](/sterbefallzahlen_viz/assets/img/sterbefaelle_Bösartige_Neubildungen_(BN).png)
+## Cause of death: Meningitis
+![Meningitis](docs/images/deaths_Meningitis.png)
 
-## Sterbefallzahlen: Bösartiges Melanom der Haut
-![Bösartiges Melanom der Haut](/sterbefallzahlen_viz/assets/img/sterbefaelle_Bösartiges_Melanom_der_Haut.png)
+## Cause of death: Meningococcal infection
+![Meningococcal infection](docs/images/deaths_Meningococcal_infection.png)
 
-## Sterbefallzahlen: COVID.19, Virus nachgewiesen
-![COVID.19, Virus nachgewiesen](/sterbefallzahlen_viz/assets/img/sterbefaelle_COVID19,_Virus_nachgewiesen.png)
+## Cause of death: Mental and behavioral disorders
+![Mental and behavioral disorders](docs/images/deaths_Mental_and_behavioral_disorders.png)
 
-## Sterbefallzahlen: COVID.19, Virus nicht nachgewiesen
-![COVID.19, Virus nicht nachgewiesen](/sterbefallzahlen_viz/assets/img/sterbefaelle_COVID19,_Virus_nicht_nachgewiesen.png)
+## Cause of death: Mental and behavioral disorders due to psychoactive substance use
+![Mental and behavioral disorders due to psychoactive substance use](docs/images/deaths_Mental_and_behavioral_disorders_due_to_psychoactive_substance_use.png)
 
-## Sterbefallzahlen: Chronische Krankheiten der unteren Atemwege
-![Chronische Krankheiten der unteren Atemwege](/sterbefallzahlen_viz/assets/img/sterbefaelle_Chronische_Krankheiten_der_unteren_Atemwege.png)
+## Cause of death: Mental and behavioral disorders durch Alkohol
+![Mental and behavioral disorders durch Alkohol](docs/images/deaths_Mental_and_behavioral_disorders_durch_Alkohol.png)
 
-## Sterbefallzahlen: Chronische Polyarthritis und Arthrose
-![Chronische Polyarthritis und Arthrose](/sterbefallzahlen_viz/assets/img/sterbefaelle_Chronische_Polyarthritis_und_Arthrose.png)
+## Cause of death: Neoplasms
+![Neoplasms](docs/images/deaths_Neoplasms.png)
 
-## Sterbefallzahlen: Diabetes mellitus
-![Diabetes mellitus](/sterbefallzahlen_viz/assets/img/sterbefaelle_Diabetes_mellitus.png)
+## Cause of death: Neoplasms of lymphoid, hematopoietic, and related tissue
+![Neoplasms of lymphoid, hematopoietic, and related tissue](docs/images/deaths_Neoplasms_of_lymphoid,_hematopoietic,_and_related_tissue.png)
 
-## Sterbefallzahlen: Endokrine, Ernährungs. u. Stoffwechselkrankheiten
-![Endokrine, Ernährungs. u. Stoffwechselkrankheiten](/sterbefallzahlen_viz/assets/img/sterbefaelle_Endokrine,_Ernährungs_u_Stoffwechselkrankheiten.png)
+## Cause of death: Neoplasms of the breast
+![Neoplasms of the breast](docs/images/deaths_Neoplasms_of_the_breast.png)
 
-## Sterbefallzahlen: Ereignis, dessen nähere Umstände unbestimmt sind
-![Ereignis, dessen nähere Umstände unbestimmt sind](/sterbefallzahlen_viz/assets/img/sterbefaelle_Ereignis,_dessen_nähere_Umstände_unbestimmt_sind.png)
+## Cause of death: Neoplasms of the bronchi and lung
+![Neoplasms of the bronchi and lung](docs/images/deaths_Neoplasms_of_the_bronchi_and_lung.png)
 
-## Sterbefallzahlen: Ertrinken und Untergehen
-![Ertrinken und Untergehen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Ertrinken_und_Untergehen.png)
+## Cause of death: Neoplasms of the cervix uteri
+![Neoplasms of the cervix uteri](docs/images/deaths_Neoplasms_of_the_cervix_uteri.png)
 
-## Sterbefallzahlen: Exposition gegenüber Rauch, Feuer und Flammen
-![Exposition gegenüber Rauch, Feuer und Flammen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Exposition_gegenüber_Rauch,_Feuer_und_Flammen.png)
+## Cause of death: Neoplasms of the colon
+![Neoplasms of the colon](docs/images/deaths_Neoplasms_of_the_colon.png)
 
-## Sterbefallzahlen: Grippe
-![Grippe](/sterbefallzahlen_viz/assets/img/sterbefaelle_Grippe.png)
+## Cause of death: Neoplasms of the corpus uteri and uterus, part unspecified
+![Neoplasms of the corpus uteri and uterus, part unspecified](docs/images/deaths_Neoplasms_of_the_corpus_uteri_and_uterus,_part_unspecified.png)
 
-## Sterbefallzahlen: Gutartige Neubildungen
-![Gutartige Neubildungen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Gutartige_Neubildungen.png)
+## Cause of death: Neoplasms of the esophagus
+![Neoplasms of the esophagus](docs/images/deaths_Neoplasms_of_the_esophagus.png)
 
-## Sterbefallzahlen: HIV.Krankheit
-![HIV.Krankheit](/sterbefallzahlen_viz/assets/img/sterbefaelle_HIVKrankheit.png)
+## Cause of death: Neoplasms of the genital and urinary organs
+![Neoplasms of the genital and urinary organs](docs/images/deaths_Neoplasms_of_the_genital_and_urinary_organs.png)
 
-## Sterbefallzahlen: Hypertonie (Hochdruckkrankheit)
-![Hypertonie (Hochdruckkrankheit)](/sterbefallzahlen_viz/assets/img/sterbefaelle_Hypertonie_(Hochdruckkrankheit).png)
+## Cause of death: Neoplasms of the kidney, except renal pelvis
+![Neoplasms of the kidney, except renal pelvis](docs/images/deaths_Neoplasms_of_the_kidney,_except_renal_pelvis.png)
 
-## Sterbefallzahlen: Insgesamt
-![Insgesamt](/sterbefallzahlen_viz/assets/img/sterbefaelle_Insgesamt.png)
+## Cause of death: Neoplasms of the larynx, trachea, bronchi, and lung
+![Neoplasms of the larynx, trachea, bronchi, and lung](docs/images/deaths_Neoplasms_of_the_larynx,_trachea,_bronchi,_and_lung.png)
 
-## Sterbefallzahlen: Ischämische Herzkrankheiten
-![Ischämische Herzkrankheiten](/sterbefallzahlen_viz/assets/img/sterbefaelle_Ischämische_Herzkrankheiten.png)
+## Cause of death: Neoplasms of the lip, oral cavity, and pharynx
+![Neoplasms of the lip, oral cavity, and pharynx](docs/images/deaths_Neoplasms_of_the_lip,_oral_cavity,_and_pharynx.png)
 
-## Sterbefallzahlen: Krankh. des Muskel.Skelett.Systems u. Bindegewebes
-![Krankh. des Muskel.Skelett.Systems u. Bindegewebes](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankh_des_MuskelSkelettSystems_u_Bindegewebes.png)
+## Cause of death: Neoplasms of the liver and intrahepatic bile ducts
+![Neoplasms of the liver and intrahepatic bile ducts](docs/images/deaths_Neoplasms_of_the_liver_and_intrahepatic_bile_ducts.png)
 
-## Sterbefallzahlen: Krankheiten d. Nervensystems u. d. Sinnesorgane
-![Krankheiten d. Nervensystems u. d. Sinnesorgane](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_d_Nervensystems_u_d_Sinnesorgane.png)
+## Cause of death: Neoplasms of the liver, biliary tract, and pancreas
+![Neoplasms of the liver, biliary tract, and pancreas](docs/images/deaths_Neoplasms_of_the_liver,_biliary_tract,_and_pancreas.png)
 
-## Sterbefallzahlen: Krankheiten der Arterien, Arteriolen und Kapillare
-![Krankheiten der Arterien, Arteriolen und Kapillare](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_der_Arterien,_Arteriolen_und_Kapillare.png)
+## Cause of death: Neoplasms of the ovary
+![Neoplasms of the ovary](docs/images/deaths_Neoplasms_of_the_ovary.png)
 
-## Sterbefallzahlen: Krankheiten der Haut und der Unterhaut
-![Krankheiten der Haut und der Unterhaut](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_der_Haut_und_der_Unterhaut.png)
+## Cause of death: Neoplasms of the pancreas
+![Neoplasms of the pancreas](docs/images/deaths_Neoplasms_of_the_pancreas.png)
 
-## Sterbefallzahlen: Krankheiten der Leber
-![Krankheiten der Leber](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_der_Leber.png)
+## Cause of death: Neoplasms of the prostate
+![Neoplasms of the prostate](docs/images/deaths_Neoplasms_of_the_prostate.png)
 
-## Sterbefallzahlen: Krankheiten der Niere
-![Krankheiten der Niere](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_der_Niere.png)
+## Cause of death: Neoplasms of the rectum, anus, and rectosigmoid junction
+![Neoplasms of the rectum, anus, and rectosigmoid junction](docs/images/deaths_Neoplasms_of_the_rectum,_anus,_and_rectosigmoid_junction.png)
 
-## Sterbefallzahlen: Krankheiten des Atmungssystems
-![Krankheiten des Atmungssystems](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_des_Atmungssystems.png)
+## Cause of death: Neoplasms of the stomach
+![Neoplasms of the stomach](docs/images/deaths_Neoplasms_of_the_stomach.png)
 
-## Sterbefallzahlen: Krankheiten des Blutes u. der blutbildenden Organe
-![Krankheiten des Blutes u. der blutbildenden Organe](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_des_Blutes_u_der_blutbildenden_Organe.png)
+## Cause of death: Neoplasms of the urinary bladder
+![Neoplasms of the urinary bladder](docs/images/deaths_Neoplasms_of_the_urinary_bladder.png)
 
-## Sterbefallzahlen: Krankheiten des Kreislaufsystems
-![Krankheiten des Kreislaufsystems](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_des_Kreislaufsystems.png)
+## Cause of death: Other diseases of the endocardium
+![Other diseases of the endocardium](docs/images/deaths_Other_diseases_of_the_endocardium.png)
 
-## Sterbefallzahlen: Krankheiten des Urogenitalsystems
-![Krankheiten des Urogenitalsystems](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_des_Urogenitalsystems.png)
+## Cause of death: Other forms of heart disease
+![Other forms of heart disease](docs/images/deaths_Other_forms_of_heart_disease.png)
 
-## Sterbefallzahlen: Krankheiten des Verdauungssystems
-![Krankheiten des Verdauungssystems](/sterbefallzahlen_viz/assets/img/sterbefaelle_Krankheiten_des_Verdauungssystems.png)
+## Cause of death: Other ill-defined and unknown causes of mortality
+![Other ill-defined and unknown causes of mortality](docs/images/deaths_Other_ill-defined_and_unknown_causes_of_mortality.png)
 
-## Sterbefallzahlen: Leukämie
-![Leukämie](/sterbefallzahlen_viz/assets/img/sterbefaelle_Leukämie.png)
+## Cause of death: Pneumonia
+![Pneumonia](docs/images/deaths_Pneumonia.png)
 
-## Sterbefallzahlen: Melanom und sonstige bösartige Neubild. der Haut
-![Melanom und sonstige bösartige Neubild. der Haut](/sterbefallzahlen_viz/assets/img/sterbefaelle_Melanom_und_sonstige_bösartige_Neubild_der_Haut.png)
+## Cause of death: Pregnancy, childbirth, and the puerperium
+![Pregnancy, childbirth, and the puerperium](docs/images/deaths_Pregnancy,_childbirth,_and_the_puerperium.png)
 
-## Sterbefallzahlen: Meningitis
-![Meningitis](/sterbefallzahlen_viz/assets/img/sterbefaelle_Meningitis.png)
+## Cause of death: Stroke, not specified as hemorrhage or infarction
+![Stroke, not specified as hemorrhage or infarction](docs/images/deaths_Stroke,_not_specified_as_hemorrhage_or_infarction.png)
 
-## Sterbefallzahlen: Meningokokkeninfektion
-![Meningokokkeninfektion](/sterbefallzahlen_viz/assets/img/sterbefaelle_Meningokokkeninfektion.png)
+## Cause of death: Sudden infant death syndrome
+![Sudden infant death syndrome](docs/images/deaths_Sudden_infant_death_syndrome.png)
 
-## Sterbefallzahlen: Neubildungen
-![Neubildungen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Neubildungen.png)
+## Cause of death: Symptoms and abnormal clinical and laboratory findings
+![Symptoms and abnormal clinical and laboratory findings](docs/images/deaths_Symptoms_and_abnormal_clinical_and_laboratory_findings.png)
 
-## Sterbefallzahlen: Plötzlicher Kindstod
-![Plötzlicher Kindstod](/sterbefallzahlen_viz/assets/img/sterbefaelle_Plötzlicher_Kindstod.png)
+## Cause of death: Transport accidents
+![Transport accidents](docs/images/deaths_Transport_accidents.png)
 
-## Sterbefallzahlen: Pneumonie
-![Pneumonie](/sterbefallzahlen_viz/assets/img/sterbefaelle_Pneumonie.png)
+## Cause of death: Tuberculosis and its sequelae
+![Tuberculosis and its sequelae](docs/images/deaths_Tuberculosis_and_its_sequelae.png)
 
-## Sterbefallzahlen: Psych. u. Verhaltensstörungen d.a.psychotr. Subst.
-![Psych. u. Verhaltensstörungen d.a.psychotr. Subst.](/sterbefallzahlen_viz/assets/img/sterbefaelle_Psych_u_Verhaltensstörungen_dapsychotr_Subst.png)
+## Cause of death: Ulcer of the stomach, duodenum, peptic, peptic jejuni
+![Ulcer of the stomach, duodenum, peptic, peptic jejuni](docs/images/deaths_Ulcer_of_the_stomach,_duodenum,_peptic,_peptic_jejuni.png)
 
-## Sterbefallzahlen: Psychische und Verhaltensstörungen
-![Psychische und Verhaltensstörungen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Psychische_und_Verhaltensstörungen.png)
+## Cause of death: Viral hepatitis
+![Viral hepatitis](docs/images/deaths_Viral_hepatitis.png)
 
-## Sterbefallzahlen: Psychische und Verhaltensstörungen durch Alkohol
-![Psychische und Verhaltensstörungen durch Alkohol](/sterbefallzahlen_viz/assets/img/sterbefaelle_Psychische_und_Verhaltensstörungen_durch_Alkohol.png)
-
-## Sterbefallzahlen: Schlaganfall, nicht als Blutung oder Infarkt bez.
-![Schlaganfall, nicht als Blutung oder Infarkt bez.](/sterbefallzahlen_viz/assets/img/sterbefaelle_Schlaganfall,_nicht_als_Blutung_oder_Infarkt_bez.png)
-
-## Sterbefallzahlen: Schwangerschaft, Geburt und Wochenbett
-![Schwangerschaft, Geburt und Wochenbett](/sterbefallzahlen_viz/assets/img/sterbefaelle_Schwangerschaft,_Geburt_und_Wochenbett.png)
-
-## Sterbefallzahlen: Sonst. ungenau bezeichnete u. unbek. Todesursachen
-![Sonst. ungenau bezeichnete u. unbek. Todesursachen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Sonst_ungenau_bezeichnete_u_unbek_Todesursachen.png)
-
-## Sterbefallzahlen: Sonstige Formen der Herzkrankheit
-![Sonstige Formen der Herzkrankheit](/sterbefallzahlen_viz/assets/img/sterbefaelle_Sonstige_Formen_der_Herzkrankheit.png)
-
-## Sterbefallzahlen: Sonstige Krankheiten des Endokards
-![Sonstige Krankheiten des Endokards](/sterbefallzahlen_viz/assets/img/sterbefaelle_Sonstige_Krankheiten_des_Endokards.png)
-
-## Sterbefallzahlen: Stürze
-![Stürze](/sterbefallzahlen_viz/assets/img/sterbefaelle_Stürze.png)
-
-## Sterbefallzahlen: Symptome und abnorme klinische und Laborbefunde
-![Symptome und abnorme klinische und Laborbefunde](/sterbefallzahlen_viz/assets/img/sterbefaelle_Symptome_und_abnorme_klinische_und_Laborbefunde.png)
-
-## Sterbefallzahlen: Transportmittelunfälle
-![Transportmittelunfälle](/sterbefallzahlen_viz/assets/img/sterbefaelle_Transportmittelunfälle.png)
-
-## Sterbefallzahlen: Tuberkulose einschließlich ihrer Folgezustände
-![Tuberkulose einschließlich ihrer Folgezustände](/sterbefallzahlen_viz/assets/img/sterbefaelle_Tuberkulose_einschließlich_ihrer_Folgezustände.png)
-
-## Sterbefallzahlen: Tätlicher Angriff
-![Tätlicher Angriff](/sterbefallzahlen_viz/assets/img/sterbefaelle_Tätlicher_Angriff.png)
-
-## Sterbefallzahlen: Ulcus ventriculi, duodeni, pepticum, pept. jejuni
-![Ulcus ventriculi, duodeni, pepticum, pept. jejuni](/sterbefallzahlen_viz/assets/img/sterbefaelle_Ulcus_ventriculi,_duodeni,_pepticum,_pept_jejuni.png)
-
-## Sterbefallzahlen: Unfälle einschließlich Spätfolgen
-![Unfälle einschließlich Spätfolgen](/sterbefallzahlen_viz/assets/img/sterbefaelle_Unfälle_einschließlich_Spätfolgen.png)
-
-## Sterbefallzahlen: Virushepatitis
-![Virushepatitis](/sterbefallzahlen_viz/assets/img/sterbefaelle_Virushepatitis.png)
-
-## Sterbefallzahlen: Vorsätzliche Selbstbeschädigung
-![Vorsätzliche Selbstbeschädigung](/sterbefallzahlen_viz/assets/img/sterbefaelle_Vorsätzliche_Selbstbeschädigung.png)
-
-## Sterbefallzahlen: Zerebrovaskuläre Krankheiten
-![Zerebrovaskuläre Krankheiten](/sterbefallzahlen_viz/assets/img/sterbefaelle_Zerebrovaskuläre_Krankheiten.png)
-
-## Sterbefallzahlen: Äußere Ursachen von Morbidität und Mortalität
-![Äußere Ursachen von Morbidität und Mortalität](/sterbefallzahlen_viz/assets/img/sterbefaelle_Äußere_Ursachen_von_Morbidität_und_Mortalität.png)
 
