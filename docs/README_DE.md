@@ -16,7 +16,7 @@ Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und die
 
 ## Datenquellen
 
-Quellcode und Dateihistorie finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
+Quellcode, Dateihistorie und die Rohdaten finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
 Die Quelle der Fallzahlen ist [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (Suche nach "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
 
