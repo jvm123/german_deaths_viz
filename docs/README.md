@@ -6,7 +6,7 @@ Language: [x] English [ ] [Deutsch](README_DE)
 
 This page shows visualizations of the death counts per cause of death in the time frame 2000 to 2022 for Germany.
 
-Each graph shows the development over time. The total death count "Insgesamt" is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
+Each graph shows the development over time. The total death count is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
 
 <em>-- Julian von Mendel, Dec 2023</em>
 
@@ -26,249 +26,249 @@ Population data are from [Bundesinstitut für Bevölkerungsforschung](https://ww
 [Lorenz Borsche](https://borsche.de/page/news) asked me to create the visualizations on this page. Source code, file history and the raw data can be found in the corresponding [GitHub repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
 ## Cause of death: Accidental poisoning: harmful substances (incl. exposure)
-![Accidental poisoning: harmful substances (incl. exposure)](docs/images/deaths_Accidental_poisoning:_harmful_substances_(incl_exposure).png)
+![Accidental poisoning: harmful substances (incl. exposure)](/sterbefallzahlen_viz/assets/img/deaths_Accidental_poisoning:_harmful_substances_(incl_exposure).png)
 
 ## Cause of death: Accidents including late effects
-![Accidents including late effects](docs/images/deaths_Accidents_including_late_effects.png)
+![Accidents including late effects](/sterbefallzahlen_viz/assets/img/deaths_Accidents_including_late_effects.png)
 
 ## Cause of death: Acute or recurrent myocardial infarction
-![Acute or recurrent myocardial infarction](docs/images/deaths_Acute_or_recurrent_myocardial_infarction.png)
+![Acute or recurrent myocardial infarction](/sterbefallzahlen_viz/assets/img/deaths_Acute_or_recurrent_myocardial_infarction.png)
 
 ## Cause of death: Alcoholic liver disease, chronic hepatitis, liver fibrosis, and cirrhosis
-![Alcoholic liver disease, chronic hepatitis, liver fibrosis, and cirrhosis](docs/images/deaths_Alcoholic_liver_disease,_chronic_hepatitis,_liver_fibrosis,_and_cirrhosis.png)
+![Alcoholic liver disease, chronic hepatitis, liver fibrosis, and cirrhosis](/sterbefallzahlen_viz/assets/img/deaths_Alcoholic_liver_disease,_chronic_hepatitis,_liver_fibrosis,_and_cirrhosis.png)
 
 ## Cause of death: Assault
-![Assault](docs/images/deaths_Assault.png)
+![Assault](/sterbefallzahlen_viz/assets/img/deaths_Assault.png)
 
 ## Cause of death: Asthma
-![Asthma](docs/images/deaths_Asthma.png)
+![Asthma](/sterbefallzahlen_viz/assets/img/deaths_Asthma.png)
 
 ## Cause of death: Benign neoplasms
-![Benign neoplasms](docs/images/deaths_Benign_neoplasms.png)
+![Benign neoplasms](/sterbefallzahlen_viz/assets/img/deaths_Benign_neoplasms.png)
 
 ## Cause of death: COVID-19, virus identified
-![COVID-19, virus identified](docs/images/deaths_COVID-19,_virus_identified.png)
+![COVID-19, virus identified](/sterbefallzahlen_viz/assets/img/deaths_COVID-19,_virus_identified.png)
 
 ## Cause of death: COVID-19, virus not identified
-![COVID-19, virus not identified](docs/images/deaths_COVID-19,_virus_not_identified.png)
+![COVID-19, virus not identified](/sterbefallzahlen_viz/assets/img/deaths_COVID-19,_virus_not_identified.png)
 
 ## Cause of death: Cerebrovascular diseases
-![Cerebrovascular diseases](docs/images/deaths_Cerebrovascular_diseases.png)
+![Cerebrovascular diseases](/sterbefallzahlen_viz/assets/img/deaths_Cerebrovascular_diseases.png)
 
 ## Cause of death: Certain conditions originating in the perinatal period
-![Certain conditions originating in the perinatal period](docs/images/deaths_Certain_conditions_originating_in_the_perinatal_period.png)
+![Certain conditions originating in the perinatal period](/sterbefallzahlen_viz/assets/img/deaths_Certain_conditions_originating_in_the_perinatal_period.png)
 
 ## Cause of death: Certain infectious and parasitic diseases
-![Certain infectious and parasitic diseases](docs/images/deaths_Certain_infectious_and_parasitic_diseases.png)
+![Certain infectious and parasitic diseases](/sterbefallzahlen_viz/assets/img/deaths_Certain_infectious_and_parasitic_diseases.png)
 
 ## Cause of death: Chronic diseases of the lower respiratory tract
-![Chronic diseases of the lower respiratory tract](docs/images/deaths_Chronic_diseases_of_the_lower_respiratory_tract.png)
+![Chronic diseases of the lower respiratory tract](/sterbefallzahlen_viz/assets/img/deaths_Chronic_diseases_of_the_lower_respiratory_tract.png)
 
 ## Cause of death: Chronic polyarthritis and arthrosis
-![Chronic polyarthritis and arthrosis](docs/images/deaths_Chronic_polyarthritis_and_arthrosis.png)
+![Chronic polyarthritis and arthrosis](/sterbefallzahlen_viz/assets/img/deaths_Chronic_polyarthritis_and_arthrosis.png)
 
 ## Cause of death: Congenital malformations of the circulatory system
-![Congenital malformations of the circulatory system](docs/images/deaths_Congenital_malformations_of_the_circulatory_system.png)
+![Congenital malformations of the circulatory system](/sterbefallzahlen_viz/assets/img/deaths_Congenital_malformations_of_the_circulatory_system.png)
 
 ## Cause of death: Congenital malformations of the nervous system
-![Congenital malformations of the nervous system](docs/images/deaths_Congenital_malformations_of_the_nervous_system.png)
+![Congenital malformations of the nervous system](/sterbefallzahlen_viz/assets/img/deaths_Congenital_malformations_of_the_nervous_system.png)
 
 ## Cause of death: Congenital malformations, deformations, and chromosomal abnormalities
-![Congenital malformations, deformations, and chromosomal abnormalities](docs/images/deaths_Congenital_malformations,_deformations,_and_chromosomal_abnormalities.png)
+![Congenital malformations, deformations, and chromosomal abnormalities](/sterbefallzahlen_viz/assets/img/deaths_Congenital_malformations,_deformations,_and_chromosomal_abnormalities.png)
 
 ## Cause of death: Diabetes mellitus
-![Diabetes mellitus](docs/images/deaths_Diabetes_mellitus.png)
+![Diabetes mellitus](/sterbefallzahlen_viz/assets/img/deaths_Diabetes_mellitus.png)
 
 ## Cause of death: Diseases of arteries, arterioles, and capillaries
-![Diseases of arteries, arterioles, and capillaries](docs/images/deaths_Diseases_of_arteries,_arterioles,_and_capillaries.png)
+![Diseases of arteries, arterioles, and capillaries](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_arteries,_arterioles,_and_capillaries.png)
 
 ## Cause of death: Diseases of the blood and blood-forming organs
-![Diseases of the blood and blood-forming organs](docs/images/deaths_Diseases_of_the_blood_and_blood-forming_organs.png)
+![Diseases of the blood and blood-forming organs](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_blood_and_blood-forming_organs.png)
 
 ## Cause of death: Diseases of the circulatory system
-![Diseases of the circulatory system](docs/images/deaths_Diseases_of_the_circulatory_system.png)
+![Diseases of the circulatory system](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_circulatory_system.png)
 
 ## Cause of death: Diseases of the digestive system
-![Diseases of the digestive system](docs/images/deaths_Diseases_of_the_digestive_system.png)
+![Diseases of the digestive system](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_digestive_system.png)
 
 ## Cause of death: Diseases of the genitourinary system
-![Diseases of the genitourinary system](docs/images/deaths_Diseases_of_the_genitourinary_system.png)
+![Diseases of the genitourinary system](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_genitourinary_system.png)
 
 ## Cause of death: Diseases of the kidney
-![Diseases of the kidney](docs/images/deaths_Diseases_of_the_kidney.png)
+![Diseases of the kidney](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_kidney.png)
 
 ## Cause of death: Diseases of the liver
-![Diseases of the liver](docs/images/deaths_Diseases_of_the_liver.png)
+![Diseases of the liver](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_liver.png)
 
 ## Cause of death: Diseases of the musculoskeletal system and connective tissue
-![Diseases of the musculoskeletal system and connective tissue](docs/images/deaths_Diseases_of_the_musculoskeletal_system_and_connective_tissue.png)
+![Diseases of the musculoskeletal system and connective tissue](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_musculoskeletal_system_and_connective_tissue.png)
 
 ## Cause of death: Diseases of the nervous system and sense organs
-![Diseases of the nervous system and sense organs](docs/images/deaths_Diseases_of_the_nervous_system_and_sense_organs.png)
+![Diseases of the nervous system and sense organs](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_nervous_system_and_sense_organs.png)
 
 ## Cause of death: Diseases of the respiratory system
-![Diseases of the respiratory system](docs/images/deaths_Diseases_of_the_respiratory_system.png)
+![Diseases of the respiratory system](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_respiratory_system.png)
 
 ## Cause of death: Diseases of the skin and subcutaneous tissue
-![Diseases of the skin and subcutaneous tissue](docs/images/deaths_Diseases_of_the_skin_and_subcutaneous_tissue.png)
+![Diseases of the skin and subcutaneous tissue](/sterbefallzahlen_viz/assets/img/deaths_Diseases_of_the_skin_and_subcutaneous_tissue.png)
 
 ## Cause of death: Drowning and submersion
-![Drowning and submersion](docs/images/deaths_Drowning_and_submersion.png)
+![Drowning and submersion](/sterbefallzahlen_viz/assets/img/deaths_Drowning_and_submersion.png)
 
 ## Cause of death: Endocrine, nutritional, and metabolic diseases
-![Endocrine, nutritional, and metabolic diseases](docs/images/deaths_Endocrine,_nutritional,_and_metabolic_diseases.png)
+![Endocrine, nutritional, and metabolic diseases](/sterbefallzahlen_viz/assets/img/deaths_Endocrine,_nutritional,_and_metabolic_diseases.png)
 
 ## Cause of death: Event of undetermined intent
-![Event of undetermined intent](docs/images/deaths_Event_of_undetermined_intent.png)
+![Event of undetermined intent](/sterbefallzahlen_viz/assets/img/deaths_Event_of_undetermined_intent.png)
 
 ## Cause of death: Exposure to smoke, fire, and flames
-![Exposure to smoke, fire, and flames](docs/images/deaths_Exposure_to_smoke,_fire,_and_flames.png)
+![Exposure to smoke, fire, and flames](/sterbefallzahlen_viz/assets/img/deaths_Exposure_to_smoke,_fire,_and_flames.png)
 
 ## Cause of death: External causes of morbidity and mortality
-![External causes of morbidity and mortality](docs/images/deaths_External_causes_of_morbidity_and_mortality.png)
+![External causes of morbidity and mortality](/sterbefallzahlen_viz/assets/img/deaths_External_causes_of_morbidity_and_mortality.png)
 
 ## Cause of death: Falls
-![Falls](docs/images/deaths_Falls.png)
+![Falls](/sterbefallzahlen_viz/assets/img/deaths_Falls.png)
 
 ## Cause of death: HIV disease
-![HIV disease](docs/images/deaths_HIV_disease.png)
+![HIV disease](/sterbefallzahlen_viz/assets/img/deaths_HIV_disease.png)
 
 ## Cause of death: Hypertension (high blood pressure)
-![Hypertension (high blood pressure)](docs/images/deaths_Hypertension_(high_blood_pressure).png)
+![Hypertension (high blood pressure)](/sterbefallzahlen_viz/assets/img/deaths_Hypertension_(high_blood_pressure).png)
 
 ## Cause of death: Influenza
-![Influenza](docs/images/deaths_Influenza.png)
+![Influenza](/sterbefallzahlen_viz/assets/img/deaths_Influenza.png)
 
 ## Cause of death: Insgesamt
-![Insgesamt](docs/images/deaths_Insgesamt.png)
+![Insgesamt](/sterbefallzahlen_viz/assets/img/deaths_Insgesamt.png)
 
 ## Cause of death: Intentional self-harm
-![Intentional self-harm](docs/images/deaths_Intentional_self-harm.png)
+![Intentional self-harm](/sterbefallzahlen_viz/assets/img/deaths_Intentional_self-harm.png)
 
 ## Cause of death: Ischemic heart diseases
-![Ischemic heart diseases](docs/images/deaths_Ischemic_heart_diseases.png)
+![Ischemic heart diseases](/sterbefallzahlen_viz/assets/img/deaths_Ischemic_heart_diseases.png)
 
 ## Cause of death: Leukemia
-![Leukemia](docs/images/deaths_Leukemia.png)
+![Leukemia](/sterbefallzahlen_viz/assets/img/deaths_Leukemia.png)
 
 ## Cause of death: Malignant melanoma of the skin
-![Malignant melanoma of the skin](docs/images/deaths_Malignant_melanoma_of_the_skin.png)
+![Malignant melanoma of the skin](/sterbefallzahlen_viz/assets/img/deaths_Malignant_melanoma_of_the_skin.png)
 
 ## Cause of death: Malignant neoplasms
-![Malignant neoplasms](docs/images/deaths_Malignant_neoplasms.png)
+![Malignant neoplasms](/sterbefallzahlen_viz/assets/img/deaths_Malignant_neoplasms.png)
 
 ## Cause of death: Melanoma and other malignant neoplasms of the skin
-![Melanoma and other malignant neoplasms of the skin](docs/images/deaths_Melanoma_and_other_malignant_neoplasms_of_the_skin.png)
+![Melanoma and other malignant neoplasms of the skin](/sterbefallzahlen_viz/assets/img/deaths_Melanoma_and_other_malignant_neoplasms_of_the_skin.png)
 
 ## Cause of death: Meningitis
-![Meningitis](docs/images/deaths_Meningitis.png)
+![Meningitis](/sterbefallzahlen_viz/assets/img/deaths_Meningitis.png)
 
 ## Cause of death: Meningococcal infection
-![Meningococcal infection](docs/images/deaths_Meningococcal_infection.png)
+![Meningococcal infection](/sterbefallzahlen_viz/assets/img/deaths_Meningococcal_infection.png)
 
 ## Cause of death: Mental and behavioral disorders
-![Mental and behavioral disorders](docs/images/deaths_Mental_and_behavioral_disorders.png)
+![Mental and behavioral disorders](/sterbefallzahlen_viz/assets/img/deaths_Mental_and_behavioral_disorders.png)
 
 ## Cause of death: Mental and behavioral disorders due to psychoactive substance use
-![Mental and behavioral disorders due to psychoactive substance use](docs/images/deaths_Mental_and_behavioral_disorders_due_to_psychoactive_substance_use.png)
+![Mental and behavioral disorders due to psychoactive substance use](/sterbefallzahlen_viz/assets/img/deaths_Mental_and_behavioral_disorders_due_to_psychoactive_substance_use.png)
 
 ## Cause of death: Mental and behavioral disorders durch Alkohol
-![Mental and behavioral disorders durch Alkohol](docs/images/deaths_Mental_and_behavioral_disorders_durch_Alkohol.png)
+![Mental and behavioral disorders durch Alkohol](/sterbefallzahlen_viz/assets/img/deaths_Mental_and_behavioral_disorders_durch_Alkohol.png)
 
 ## Cause of death: Neoplasms
-![Neoplasms](docs/images/deaths_Neoplasms.png)
+![Neoplasms](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms.png)
 
 ## Cause of death: Neoplasms of lymphoid, hematopoietic, and related tissue
-![Neoplasms of lymphoid, hematopoietic, and related tissue](docs/images/deaths_Neoplasms_of_lymphoid,_hematopoietic,_and_related_tissue.png)
+![Neoplasms of lymphoid, hematopoietic, and related tissue](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_lymphoid,_hematopoietic,_and_related_tissue.png)
 
 ## Cause of death: Neoplasms of the breast
-![Neoplasms of the breast](docs/images/deaths_Neoplasms_of_the_breast.png)
+![Neoplasms of the breast](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_breast.png)
 
 ## Cause of death: Neoplasms of the bronchi and lung
-![Neoplasms of the bronchi and lung](docs/images/deaths_Neoplasms_of_the_bronchi_and_lung.png)
+![Neoplasms of the bronchi and lung](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_bronchi_and_lung.png)
 
 ## Cause of death: Neoplasms of the cervix uteri
-![Neoplasms of the cervix uteri](docs/images/deaths_Neoplasms_of_the_cervix_uteri.png)
+![Neoplasms of the cervix uteri](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_cervix_uteri.png)
 
 ## Cause of death: Neoplasms of the colon
-![Neoplasms of the colon](docs/images/deaths_Neoplasms_of_the_colon.png)
+![Neoplasms of the colon](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_colon.png)
 
 ## Cause of death: Neoplasms of the corpus uteri and uterus, part unspecified
-![Neoplasms of the corpus uteri and uterus, part unspecified](docs/images/deaths_Neoplasms_of_the_corpus_uteri_and_uterus,_part_unspecified.png)
+![Neoplasms of the corpus uteri and uterus, part unspecified](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_corpus_uteri_and_uterus,_part_unspecified.png)
 
 ## Cause of death: Neoplasms of the esophagus
-![Neoplasms of the esophagus](docs/images/deaths_Neoplasms_of_the_esophagus.png)
+![Neoplasms of the esophagus](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_esophagus.png)
 
 ## Cause of death: Neoplasms of the genital and urinary organs
-![Neoplasms of the genital and urinary organs](docs/images/deaths_Neoplasms_of_the_genital_and_urinary_organs.png)
+![Neoplasms of the genital and urinary organs](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_genital_and_urinary_organs.png)
 
 ## Cause of death: Neoplasms of the kidney, except renal pelvis
-![Neoplasms of the kidney, except renal pelvis](docs/images/deaths_Neoplasms_of_the_kidney,_except_renal_pelvis.png)
+![Neoplasms of the kidney, except renal pelvis](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_kidney,_except_renal_pelvis.png)
 
 ## Cause of death: Neoplasms of the larynx, trachea, bronchi, and lung
-![Neoplasms of the larynx, trachea, bronchi, and lung](docs/images/deaths_Neoplasms_of_the_larynx,_trachea,_bronchi,_and_lung.png)
+![Neoplasms of the larynx, trachea, bronchi, and lung](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_larynx,_trachea,_bronchi,_and_lung.png)
 
 ## Cause of death: Neoplasms of the lip, oral cavity, and pharynx
-![Neoplasms of the lip, oral cavity, and pharynx](docs/images/deaths_Neoplasms_of_the_lip,_oral_cavity,_and_pharynx.png)
+![Neoplasms of the lip, oral cavity, and pharynx](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_lip,_oral_cavity,_and_pharynx.png)
 
 ## Cause of death: Neoplasms of the liver and intrahepatic bile ducts
-![Neoplasms of the liver and intrahepatic bile ducts](docs/images/deaths_Neoplasms_of_the_liver_and_intrahepatic_bile_ducts.png)
+![Neoplasms of the liver and intrahepatic bile ducts](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_liver_and_intrahepatic_bile_ducts.png)
 
 ## Cause of death: Neoplasms of the liver, biliary tract, and pancreas
-![Neoplasms of the liver, biliary tract, and pancreas](docs/images/deaths_Neoplasms_of_the_liver,_biliary_tract,_and_pancreas.png)
+![Neoplasms of the liver, biliary tract, and pancreas](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_liver,_biliary_tract,_and_pancreas.png)
 
 ## Cause of death: Neoplasms of the ovary
-![Neoplasms of the ovary](docs/images/deaths_Neoplasms_of_the_ovary.png)
+![Neoplasms of the ovary](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_ovary.png)
 
 ## Cause of death: Neoplasms of the pancreas
-![Neoplasms of the pancreas](docs/images/deaths_Neoplasms_of_the_pancreas.png)
+![Neoplasms of the pancreas](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_pancreas.png)
 
 ## Cause of death: Neoplasms of the prostate
-![Neoplasms of the prostate](docs/images/deaths_Neoplasms_of_the_prostate.png)
+![Neoplasms of the prostate](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_prostate.png)
 
 ## Cause of death: Neoplasms of the rectum, anus, and rectosigmoid junction
-![Neoplasms of the rectum, anus, and rectosigmoid junction](docs/images/deaths_Neoplasms_of_the_rectum,_anus,_and_rectosigmoid_junction.png)
+![Neoplasms of the rectum, anus, and rectosigmoid junction](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_rectum,_anus,_and_rectosigmoid_junction.png)
 
 ## Cause of death: Neoplasms of the stomach
-![Neoplasms of the stomach](docs/images/deaths_Neoplasms_of_the_stomach.png)
+![Neoplasms of the stomach](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_stomach.png)
 
 ## Cause of death: Neoplasms of the urinary bladder
-![Neoplasms of the urinary bladder](docs/images/deaths_Neoplasms_of_the_urinary_bladder.png)
+![Neoplasms of the urinary bladder](/sterbefallzahlen_viz/assets/img/deaths_Neoplasms_of_the_urinary_bladder.png)
 
 ## Cause of death: Other diseases of the endocardium
-![Other diseases of the endocardium](docs/images/deaths_Other_diseases_of_the_endocardium.png)
+![Other diseases of the endocardium](/sterbefallzahlen_viz/assets/img/deaths_Other_diseases_of_the_endocardium.png)
 
 ## Cause of death: Other forms of heart disease
-![Other forms of heart disease](docs/images/deaths_Other_forms_of_heart_disease.png)
+![Other forms of heart disease](/sterbefallzahlen_viz/assets/img/deaths_Other_forms_of_heart_disease.png)
 
 ## Cause of death: Other ill-defined and unknown causes of mortality
-![Other ill-defined and unknown causes of mortality](docs/images/deaths_Other_ill-defined_and_unknown_causes_of_mortality.png)
+![Other ill-defined and unknown causes of mortality](/sterbefallzahlen_viz/assets/img/deaths_Other_ill-defined_and_unknown_causes_of_mortality.png)
 
 ## Cause of death: Pneumonia
-![Pneumonia](docs/images/deaths_Pneumonia.png)
+![Pneumonia](/sterbefallzahlen_viz/assets/img/deaths_Pneumonia.png)
 
 ## Cause of death: Pregnancy, childbirth, and the puerperium
-![Pregnancy, childbirth, and the puerperium](docs/images/deaths_Pregnancy,_childbirth,_and_the_puerperium.png)
+![Pregnancy, childbirth, and the puerperium](/sterbefallzahlen_viz/assets/img/deaths_Pregnancy,_childbirth,_and_the_puerperium.png)
 
 ## Cause of death: Stroke, not specified as hemorrhage or infarction
-![Stroke, not specified as hemorrhage or infarction](docs/images/deaths_Stroke,_not_specified_as_hemorrhage_or_infarction.png)
+![Stroke, not specified as hemorrhage or infarction](/sterbefallzahlen_viz/assets/img/deaths_Stroke,_not_specified_as_hemorrhage_or_infarction.png)
 
 ## Cause of death: Sudden infant death syndrome
-![Sudden infant death syndrome](docs/images/deaths_Sudden_infant_death_syndrome.png)
+![Sudden infant death syndrome](/sterbefallzahlen_viz/assets/img/deaths_Sudden_infant_death_syndrome.png)
 
 ## Cause of death: Symptoms and abnormal clinical and laboratory findings
-![Symptoms and abnormal clinical and laboratory findings](docs/images/deaths_Symptoms_and_abnormal_clinical_and_laboratory_findings.png)
+![Symptoms and abnormal clinical and laboratory findings](/sterbefallzahlen_viz/assets/img/deaths_Symptoms_and_abnormal_clinical_and_laboratory_findings.png)
 
 ## Cause of death: Transport accidents
-![Transport accidents](docs/images/deaths_Transport_accidents.png)
+![Transport accidents](/sterbefallzahlen_viz/assets/img/deaths_Transport_accidents.png)
 
 ## Cause of death: Tuberculosis and its sequelae
-![Tuberculosis and its sequelae](docs/images/deaths_Tuberculosis_and_its_sequelae.png)
+![Tuberculosis and its sequelae](/sterbefallzahlen_viz/assets/img/deaths_Tuberculosis_and_its_sequelae.png)
 
 ## Cause of death: Ulcer of the stomach, duodenum, peptic, peptic jejuni
-![Ulcer of the stomach, duodenum, peptic, peptic jejuni](docs/images/deaths_Ulcer_of_the_stomach,_duodenum,_peptic,_peptic_jejuni.png)
+![Ulcer of the stomach, duodenum, peptic, peptic jejuni](/sterbefallzahlen_viz/assets/img/deaths_Ulcer_of_the_stomach,_duodenum,_peptic,_peptic_jejuni.png)
 
 ## Cause of death: Viral hepatitis
-![Viral hepatitis](docs/images/deaths_Viral_hepatitis.png)
+![Viral hepatitis](/sterbefallzahlen_viz/assets/img/deaths_Viral_hepatitis.png)
 
 

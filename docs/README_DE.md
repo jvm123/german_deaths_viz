@@ -128,6 +128,7 @@ BN = Bösartige Neubildung
 ![BN des Ovars](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Ovars.png)
 
 ## Sterbefallzahlen: BN des Pankreas
+BN = Bösartige Neubildung
 ![BN des Pankreas](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Pankreas.png)
 
 ## Sterbefallzahlen: BN des Rektums, des Anus und am Rektosigmoid
@@ -136,6 +137,7 @@ BN = Bösartige Neubildung
 ![BN des Rektums, des Anus und am Rektosigmoid](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Rektums,_des_Anus_und_am_Rektosigmoid.png)
 
 ## Sterbefallzahlen: BN des Ösophagus
+BN = Bösartige Neubildung
 ![BN des Ösophagus](/sterbefallzahlen_viz/assets/img/sterbefaelle_BN_des_Ösophagus.png)
 
 ## Sterbefallzahlen: Best.Zustände mit Ursprung in der Perinatalperiode
