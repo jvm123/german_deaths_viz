@@ -1,4 +1,4 @@
-Sprache: [ ] [English](README) [x] Deutsch
+Sprache: [ ] [English](/) [x] Deutsch
 
 ## Intro
 
