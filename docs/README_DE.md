@@ -1,22 +1,26 @@
-Language: [x] English [ ] [Deutsch](README_DE.md]
+Sprache: [ ] [English](README.md) [x] Deutsch
 
 ## Intro
 
-This page shows visualizations of the death counts per cause of death in the time frame 2000 to 2022 for Germany.
+Diese Seite zeigt Visualisierungen der Anzahl der Todesfälle pro Todesursache im Zeitraum 2000 bis 2022 für Deutschland.
 
-Each graph shows the development over time. The total death count "Insgesamt" is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
+Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe normiert.
 
-## Interpretation of the data
-Be careful when interpreting these data! First, scales in the graphs vary. An example for this are the first two graphics: There are 40x as many deaths for acute or recurrent myocardial infarction than for acid. poisoning. You can only tell that by looking at the scale.
+## Interpretation der Daten
 
-Most developments have a plausible and simple reason. E.g., the apparently worsening situation for the age group 80+ is a simple consequence of the average age in that age group increasing.
+Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich. Ein Beispiel dafür sind die ersten zwei Grafiken: Es gibt 40x mehr Todesfälle für den akuten oder rezidivierenden Myokardinfarkt als für akzid. Vergiftung. Dies kann nur an der Skala abgelesen werden.
 
-Also, the size of the respective age groups vary from year to year, and this was **not** adjusted for. E.g., when more children are born, more deaths in the age group <20 will be observed, and the development in the graphics does therefore not necessarily indicate any change in the environment.
+Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.
 
-## Data sources
-The source of the case numbers is [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (search for "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
-Population data are from [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
+Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und dies wurde **nicht** bereinigt. Wenn z.B. mehr Kinder geboren werden, werden auch mehr Todesfälle in der Altersgruppe <20 zu beobachten sein, und die Entwicklung in den Grafiken deutet daher nicht unbedingt auf eine Veränderung in der Umwelt hin.)
 
+## Datenquellen
+
+Quellcode und Dateihistorie finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
+
+Die Quelle der Fallzahlen ist [Destatis Genesis](https://www-genesis.destatis.de/genesis/online#astructure) (Suche nach "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen").
+
+Die Bevölkerungsdaten stammen vom [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
 ## Sterbefallzahlen: Akuter oder rezidivierender Myokardinfarkt
 ![Akuter oder rezidivierender Myokardinfarkt](/sterbefallzahlen_viz/assets/img/sterbefaelle_Akuter_oder_rezidivierender_Myokardinfarkt.png)
