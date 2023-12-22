@@ -1,4 +1,4 @@
-Language: [x] English [ ] [Deutsch](README_DE.md]
+Language: [x] English [ ] [Deutsch](README_DE)
 
 ## Intro
 
@@ -7,7 +7,7 @@ This page shows visualizations of the death counts per cause of death in the tim
 Each graph shows the development over time. The total death count "Insgesamt" is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
 
 ## Interpretation of the data
-Be careful when interpreting these data! First, scales in the graphs vary. An example for this are the first two graphics: There are 40x as many deaths for acute or recurrent myocardial infarction than for acid. poisoning. You can only tell that by looking at the scale.
+Be careful when interpreting these data! First, scales in the graphs vary. An example for this are the first two graphics: There are about 40 times as many deaths for acute or recurrent myocardial infarction than for acid. poisoning. You can only tell that by looking at the scale.
 
 Most developments have a plausible and simple reason. E.g., the apparently worsening situation for the age group 80+ is a simple consequence of the average age in that age group increasing.
 

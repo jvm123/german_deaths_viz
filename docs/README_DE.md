@@ -1,4 +1,4 @@
-Sprache: [ ] [English](README.md) [x] Deutsch
+Sprache: [ ] [English](README) [x] Deutsch
 
 ## Intro
 
@@ -8,7 +8,7 @@ Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefäll
 
 ## Interpretation der Daten
 
-Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich. Ein Beispiel dafür sind die ersten zwei Grafiken: Es gibt 40x mehr Todesfälle für den akuten oder rezidivierenden Myokardinfarkt als für akzid. Vergiftung. Dies kann nur an der Skala abgelesen werden.
+Seien Sie vorsichtig bei der Interpretation dieser Daten! Zuersteinmal sind die Skalen in den Bildern nicht gleich. Ein Beispiel dafür sind die ersten zwei Grafiken: Es gibt 2022 etwa 40x mehr Todesfälle für den akuten oder rezidivierenden Myokardinfarkt als für akzid. Vergiftung. Dies kann nur an der Skala abgelesen werden.
 
 Für die meisten Entwicklungen gibt es einen plausiblen und einfachen Grund. So ist z.B. die scheinbare Verschlechterung der Situation in der Altersgruppe 80+ eine einfache Folge des steigenden Durchschnittsalters in dieser Altersgruppe.
 
