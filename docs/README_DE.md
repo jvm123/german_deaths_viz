@@ -20,7 +20,7 @@ Die Quelle der Fallzahlen ist das [Statistisches Bundesamt (Destatis), Genesis-O
 
 Die Bevölkerungsdaten stammen vom [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
-Die Visualisierungen auf dieser Seite bestellte [Lorenz Borsche](https://borsche.de/) bei mir. Quellcode, Dateihistorie und die aufbereiteten Destatis-Rohdaten finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
+[Lorenz Borsche](https://borsche.de/) bat mich, die Visualisierungen auf dieser Seite zu erzeugen. Quellcode, Dateihistorie und die aufbereiteten Destatis-Rohdaten finden sich im zugehörigen [GitHub-Repository](https://github.com/jvm123/sterbefallzahlen_viz).
 
 ## Sterbefallzahlen: Akuter oder rezidivierender Myokardinfarkt
 ![Akuter oder rezidivierender Myokardinfarkt](/sterbefallzahlen_viz/assets/img/sterbefaelle_Akuter_oder_rezidivierender_Myokardinfarkt.png)
