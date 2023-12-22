@@ -16,7 +16,7 @@ Auch die Größe der jeweiligen Altersgruppen variiert von Jahr zu Jahr, und die
 
 ## Datenquellen / Transparenz
 
-Die Quelle der Fallzahlen ist das [Statistisches Bundesamt (Destatis), Genesis-Online](https://www-genesis.destatis.de/genesis/online#astructure) (Suche nach "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen", Abrufdatum 17.12.2023), [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0).
+Die Quelle der Fallzahlen ist das [Statistisches Bundesamt (Destatis), Genesis-Online](https://www-genesis.destatis.de/genesis/online#astructure) (Suche nach "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen", Abrufdatum 17.12.2023), [Datenlizenz by-2-0](https://www.govdata.de/dl-de/by-2-0).
 
 Die Bevölkerungsdaten stammen vom [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
