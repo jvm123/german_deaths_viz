@@ -1,4 +1,4 @@
-Go visit https://jvm123.github.io/sterbefallzahlen_viz/ to see the page with plots.
+Go visit https://jvm123.github.io/german_deaths_viz/ to see the page with plots.
 
 ## Intro
 
