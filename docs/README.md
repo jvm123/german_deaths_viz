@@ -15,7 +15,7 @@ Also, the size of the respective age groups vary from year to year, and this was
 
 ## Data sources / Transparency
 
-The source of the case numbers is [Statistisches Bundesamt (Destatis), Genesis-Online](https://www-genesis.destatis.de/genesis/online#astructure) (search for: "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen", Abrufdatum 17.12.2023), [Data license by-2-0](https://www.govdata.de/dl-de/by-2-0).
+The source of the case numbers is [Statistisches Bundesamt (Destatis), Genesis-Online](https://www-genesis.destatis.de/genesis/online#astructure) (search for: "Gestorbene: Deutschland, Jahre, Todesursachen, Altersgruppen", accessed on Dec 17, 2023), [Data license by-2-0](https://www.govdata.de/dl-de/by-2-0).
 
 Population data are from [Bundesinstitut für Bevölkerungsforschung](https://www.bib.bund.de/DE/Fakten/Fakt/B23-Altersgruppen-1871-Vorausberechnung.html).
 
