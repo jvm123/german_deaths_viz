@@ -11,7 +11,7 @@ Each graph shows the development over time. The total death count is normed by t
 <em>-- Julian von Mendel, Dec 2023</em>
 
 ## Interpretation of the data
-Be careful when interpreting these data! First, scales in the graphs vary. An example for this are the first two graphics: There are about 40 times as many deaths for acute or recurrent myocardial infarction than for acid. poisoning. You can only tell that by looking at the scale.
+Be careful when interpreting these data! First, scales in the graphs vary. An example for this are the first two graphics: There are about 26 times as many deaths for accidents and their late effects as compared to accidental poisoning. You can only tell that by looking at the scale.
 
 Most developments have a plausible and simple reason. E.g., the apparently worsening situation for the age group 80+ is largely a simple consequence of the average age in that age group increasing.
 
