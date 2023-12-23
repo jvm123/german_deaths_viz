@@ -1,6 +1,6 @@
-Language: [x] English [ ] [Deutsch](README_DE)
-
 # Death Count by Cause, Germany, 2000-2022
+
+Language: [x] English [ ] [Deutsch](README_DE)
 
 ## Intro
 
@@ -139,9 +139,6 @@ Population data are from [Bundesinstitut für Bevölkerungsforschung](https://ww
 ## Cause of death: Influenza
 ![Influenza](/german_deaths_viz/assets/img/deaths_Influenza.png)
 
-## Cause of death: Insgesamt
-![Insgesamt](/german_deaths_viz/assets/img/deaths_Insgesamt.png)
-
 ## Cause of death: Intentional self-harm
 ![Intentional self-harm](/german_deaths_viz/assets/img/deaths_Intentional_self-harm.png)
 
@@ -258,6 +255,9 @@ Population data are from [Bundesinstitut für Bevölkerungsforschung](https://ww
 
 ## Cause of death: Symptoms and abnormal clinical and laboratory findings
 ![Symptoms and abnormal clinical and laboratory findings](/german_deaths_viz/assets/img/deaths_Symptoms_and_abnormal_clinical_and_laboratory_findings.png)
+
+## Cause of death: Total
+![Total](/german_deaths_viz/assets/img/deaths_Total.png)
 
 ## Cause of death: Transport accidents
 ![Transport accidents](/german_deaths_viz/assets/img/deaths_Transport_accidents.png)
