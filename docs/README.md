@@ -1,6 +1,6 @@
-# Death Count by Cause, Germany, 2000-2022
-
 Language: [x] English [ ] [Deutsch](README_DE)
+
+# Death Count by Cause, Germany, 2000-2022
 
 ## Intro
 

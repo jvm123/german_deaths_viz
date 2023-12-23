@@ -1,6 +1,6 @@
-# Sterbefallzahlen nach Ursache in Deutschland 2000-2022
-
 Sprache: [ ] [English](/german_deaths_viz/) [x] Deutsch
+
+# Sterbefallzahlen nach Ursache in Deutschland 2000-2022
 
 ## Intro
 
