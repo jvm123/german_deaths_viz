@@ -6,7 +6,7 @@ Sprache: [ ] [English](/german_deaths_viz/) [x] Deutsch
 
 Diese Seite zeigt Visualisierungen der Anzahl der Todesfälle pro Todesursache im Zeitraum 2000 bis 2022 für Deutschland.
 
-Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe normiert.
+Jede Grafik zeigt die Entwicklung über die Zeit. Die Gesamtzahl der Sterbefälle "Insgesamt" ist auf die Bevölkerungszahl des jeweiligen Jahres normiert, die einzelnen Altersgruppen sind jedoch **nicht** auf ihre tatsächliche Größe im jeweiligen Jahr normiert. Das bedeutet dass die Werte in den Graphen die Absolutwerte pro 100,000 Einwohnern (irgendeines Alters) zeigen. Die sich verändernde Alterszusammensetzung und Geburtenrate von Jahr zu Jahr ist insofern bei der Interpretation zu bedenken.
 
 <em>-- Julian von Mendel, Dez 2023</em>
 

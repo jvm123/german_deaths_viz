@@ -6,7 +6,7 @@ Language: [x] English [ ] [Deutsch](README_DE)
 
 This page shows visualizations of the death counts per cause of death in the time frame 2000 to 2022 for Germany.
 
-Each graph shows the development over time. The total death count is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size.
+Each graph shows the development over time. The total death count is normed by the population size in the respective year, but the individual age groups are **not** normed by their actual size in the given year. This means that you are seeing total values per 100.000 citizens (of all ages) and should consider that the age distribution and birth rate may vary over the years when interpreting the data.
 
 <em>-- Julian von Mendel, Dec 2023</em>
 
