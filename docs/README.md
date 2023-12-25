@@ -169,8 +169,8 @@ Population data are from [Bundesinstitut für Bevölkerungsforschung](https://ww
 ## Cause of death: Mental and behavioral disorders due to psychoactive substance use
 ![Mental and behavioral disorders due to psychoactive substance use](/german_deaths_viz/assets/img/deaths_Mental_and_behavioral_disorders_due_to_psychoactive_substance_use.png)
 
-## Cause of death: Mental and behavioral disorders durch Alkohol
-![Mental and behavioral disorders durch Alkohol](/german_deaths_viz/assets/img/deaths_Mental_and_behavioral_disorders_durch_Alkohol.png)
+## Cause of death: Mental and behavioral disorders due to alcohol
+![Mental and behavioral disorders durch Alkohol](/german_deaths_viz/assets/img/deaths_Mental_and_behavioral_disorders_due_to_alcohol.png)
 
 ## Cause of death: Neoplasms
 ![Neoplasms](/german_deaths_viz/assets/img/deaths_Neoplasms.png)
