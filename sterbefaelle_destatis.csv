@@ -33,7 +33,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2000,"Endocrine, nutritional, and metabolic diseases",29,81,32,37,29,70,134,196,334,367,656,1317,1936,2771,4062,3594,8026,23671
 2000,Diabetes mellitus,0,2,2,10,11,40,89,136,227,276,530,1100,1733,2519,3759,3373,7373,21180
 2000,Mental and behavioral disorders,0,3,59,190,281,369,490,641,665,678,784,922,588,454,541,422,1549,8636
-2000,Mental and behavioral disorders durch Alkohol,0,0,5,15,46,130,289,505,597,650,750,860,523,303,203,51,63,4990
+2000,Mental and behavioral disorders due to alcohol,0,0,5,15,46,130,289,505,597,650,750,860,523,303,203,51,63,4990
 2000,Mental and behavioral disorders due to psychoactive substance use,0,2,47,172,227,235,183,124,54,9,12,13,3,8,3,6,6,1104
 2000,Diseases of the nervous system and sense organs,78,170,82,85,77,126,214,304,349,410,636,941,1231,1885,2897,2368,4256,16109
 2000,Meningitis,10,7,4,3,3,6,7,6,8,10,14,21,24,33,32,19,19,226
@@ -115,7 +115,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2001,"Endocrine, nutritional, and metabolic diseases",35,70,25,28,35,48,120,196,311,434,588,1326,1956,2885,3883,4020,8403,24363
 2001,Diabetes mellitus,0,5,6,3,16,28,71,144,229,327,477,1114,1756,2619,3590,3780,7713,21878
 2001,Mental and behavioral disorders,0,3,28,120,149,258,422,591,686,618,684,806,597,456,413,466,1529,7826
-2001,Mental and behavioral disorders durch Alkohol,0,1,1,12,23,103,269,484,617,581,651,747,534,315,154,81,60,4633
+2001,Mental and behavioral disorders due to alcohol,0,1,1,12,23,103,269,484,617,581,651,747,534,315,154,81,60,4633
 2001,Mental and behavioral disorders due to psychoactive substance use,0,0,20,106,123,151,142,97,59,17,9,5,2,3,2,5,3,744
 2001,Diseases of the nervous system and sense organs,64,174,79,85,96,129,223,311,393,419,563,1000,1242,1920,2857,2726,4366,16647
 2001,Meningitis,4,4,1,3,1,7,4,5,4,7,8,16,21,23,30,18,28,184
@@ -197,7 +197,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2002,"Endocrine, nutritional, and metabolic diseases",35,53,22,33,34,62,134,207,325,483,616,1332,2142,3080,4126,4924,8747,26355
 2002,Diabetes mellitus,0,3,4,11,13,36,89,131,215,365,492,1122,1895,2790,3857,4608,7976,23607
 2002,Mental and behavioral disorders,0,2,29,110,147,200,391,567,717,688,639,877,608,460,460,517,1510,7922
-2002,Mental and behavioral disorders durch Alkohol,0,0,2,6,24,89,249,464,649,657,613,828,551,343,190,68,45,4778
+2002,Mental and behavioral disorders due to alcohol,0,0,2,6,24,89,249,464,649,657,613,828,551,343,190,68,45,4778
 2002,Mental and behavioral disorders due to psychoactive substance use,0,0,20,99,115,103,128,83,53,14,12,7,8,4,4,7,6,663
 2002,Diseases of the nervous system and sense organs,73,152,95,94,78,140,214,303,407,436,567,1059,1313,2002,2932,3350,4541,17756
 2002,Meningitis,11,8,1,0,2,0,4,6,5,9,10,16,22,25,26,25,16,186
@@ -279,7 +279,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2003,"Endocrine, nutritional, and metabolic diseases",36,78,36,25,44,62,116,211,343,507,622,1325,2239,3067,4115,5680,8685,27191
 2003,Diabetes mellitus,0,3,6,9,16,34,61,136,246,393,499,1115,1968,2775,3781,5223,7676,23941
 2003,Mental and behavioral disorders,0,3,32,126,141,214,373,600,767,696,634,816,713,516,513,653,1738,8535
-2003,Mental and behavioral disorders durch Alkohol,0,0,1,11,25,91,247,481,690,663,594,758,633,381,193,96,68,4932
+2003,Mental and behavioral disorders due to alcohol,0,0,1,11,25,91,247,481,690,663,594,758,633,381,193,96,68,4932
 2003,Mental and behavioral disorders due to psychoactive substance use,0,3,27,107,113,116,115,105,51,14,10,11,5,8,6,3,8,702
 2003,Diseases of the nervous system and sense organs,73,171,67,98,88,139,225,304,410,522,569,1001,1438,2031,2980,3835,4519,18470
 2003,Meningitis,9,6,0,2,6,2,4,8,6,11,9,21,22,19,35,34,11,205
@@ -361,7 +361,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2004,"Endocrine, nutritional, and metabolic diseases",36,71,27,32,48,65,135,244,337,515,672,1285,2235,3005,4097,5766,8471,27041
 2004,Diabetes mellitus,1,2,8,7,24,31,72,168,227,385,535,1060,1946,2726,3743,5257,7461,23653
 2004,Mental and behavioral disorders,0,1,19,92,126,164,376,538,751,769,662,786,709,531,631,962,2399,9516
-2004,Mental and behavioral disorders durch Alkohol,0,1,1,8,26,63,215,431,670,727,612,722,602,329,202,94,43,4746
+2004,Mental and behavioral disorders due to alcohol,0,1,1,8,26,63,215,431,670,727,612,722,602,329,202,94,43,4746
 2004,Mental and behavioral disorders due to psychoactive substance use,0,0,12,77,97,92,147,97,57,19,10,9,7,2,1,4,1,632
 2004,Diseases of the nervous system and sense organs,57,153,88,84,85,98,220,328,389,500,558,963,1399,1860,3022,3806,4079,17689
 2004,Meningitis,9,10,1,3,2,0,7,7,8,4,7,15,32,16,17,28,13,179
@@ -443,7 +443,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2005,"Endocrine, nutritional, and metabolic diseases",50,59,23,32,31,61,108,245,381,540,789,1226,2306,3198,4271,5887,9064,28271
 2005,Diabetes mellitus,0,5,4,13,12,29,63,146,250,384,587,992,1965,2797,3839,5351,7905,24342
 2005,Mental and behavioral disorders,0,4,19,77,126,192,375,565,770,870,690,786,792,624,801,1336,3329,11356
-2005,Mental and behavioral disorders durch Alkohol,0,0,1,7,26,66,230,433,682,788,618,693,632,359,227,111,60,4933
+2005,Mental and behavioral disorders due to alcohol,0,0,1,7,26,66,230,433,682,788,618,693,632,359,227,111,60,4933
 2005,Mental and behavioral disorders due to psychoactive substance use,0,0,13,60,95,121,133,119,68,50,31,14,17,18,8,4,4,755
 2005,Diseases of the nervous system and sense organs,58,161,99,85,94,108,178,327,410,519,584,932,1534,1861,3115,3997,4503,18565
 2005,Meningitis,7,10,2,1,2,4,0,11,8,8,7,19,29,20,24,37,13,202
@@ -525,7 +525,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2006,"Endocrine, nutritional, and metabolic diseases",34,69,24,23,45,56,115,261,376,526,797,989,2057,2966,4050,5329,8907,26624
 2006,Diabetes mellitus,1,3,6,7,12,27,62,159,222,348,574,758,1705,2570,3541,4693,7620,22308
 2006,Mental and behavioral disorders,1,3,8,84,110,157,293,532,747,796,705,718,832,803,1081,2008,5267,14145
-2006,Mental and behavioral disorders durch Alkohol,0,0,0,8,22,61,160,395,631,707,642,602,616,381,206,99,73,4603
+2006,Mental and behavioral disorders due to alcohol,0,0,0,8,22,61,160,395,631,707,642,602,616,381,206,99,73,4603
 2006,Mental and behavioral disorders due to psychoactive substance use,0,0,6,67,81,88,118,115,78,47,17,18,19,13,8,3,1,679
 2006,Diseases of the nervous system and sense organs,64,138,106,100,81,110,195,349,448,525,636,886,1604,1990,3221,3982,4976,19411
 2006,Meningitis,15,6,3,3,2,2,5,6,3,8,9,12,21,19,27,17,20,178
@@ -607,7 +607,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2007,"Endocrine, nutritional, and metabolic diseases",24,68,20,29,41,41,129,245,367,513,834,1003,2074,2896,3917,5093,9083,26377
 2007,Diabetes mellitus,0,2,5,4,16,17,61,123,231,351,575,749,1663,2486,3410,4462,7716,21871
 2007,Mental and behavioral disorders,1,8,19,66,127,158,285,498,736,799,743,665,904,851,1245,2116,6239,15460
-2007,Mental and behavioral disorders durch Alkohol,0,0,1,5,16,50,153,372,614,699,676,561,686,418,239,114,98,4702
+2007,Mental and behavioral disorders due to alcohol,0,0,1,5,16,50,153,372,614,699,676,561,686,418,239,114,98,4702
 2007,Mental and behavioral disorders due to psychoactive substance use,0,1,11,59,105,100,121,101,90,53,24,21,6,8,6,6,4,716
 2007,Diseases of the nervous system and sense organs,52,135,64,89,100,87,179,267,458,518,649,787,1508,2007,3034,3628,4721,18283
 2007,Meningitis,6,7,0,1,3,1,3,6,8,12,12,8,17,20,27,36,20,187
@@ -689,7 +689,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2008,"Endocrine, nutritional, and metabolic diseases",29,53,31,33,56,53,106,239,407,531,822,1029,1896,3078,3869,5222,9877,27331
 2008,Diabetes mellitus,1,2,6,6,12,22,50,125,218,327,567,728,1490,2568,3305,4520,8383,22330
 2008,Mental and behavioral disorders,1,6,9,63,163,167,284,507,800,823,845,720,973,968,1517,2809,8195,18850
-2008,Mental and behavioral disorders durch Alkohol,0,0,1,3,30,48,148,329,650,716,740,602,675,388,220,135,75,4760
+2008,Mental and behavioral disorders due to alcohol,0,0,1,3,30,48,148,329,650,716,740,602,675,388,220,135,75,4760
 2008,Mental and behavioral disorders due to psychoactive substance use,0,0,7,56,125,114,124,163,116,68,31,16,14,10,7,6,8,865
 2008,Diseases of the nervous system and sense organs,46,132,67,84,104,84,152,339,431,531,673,853,1587,2349,3097,4010,5302,19841
 2008,Meningitis,2,5,2,0,5,1,6,6,6,7,16,5,17,18,32,21,22,171
@@ -771,7 +771,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2009,"Endocrine, nutritional, and metabolic diseases",30,55,22,39,47,63,87,218,407,574,877,1059,1797,3078,3994,5493,10297,28137
 2009,Diabetes mellitus,3,3,4,9,12,17,33,111,214,331,576,772,1431,2568,3401,4705,8579,22769
 2009,Mental and behavioral disorders,1,3,15,65,138,189,269,478,717,843,831,707,952,1228,1909,3624,10623,22592
-2009,Mental and behavioral disorders durch Alkohol,0,0,2,5,23,48,127,329,572,723,737,577,640,462,244,141,81,4711
+2009,Mental and behavioral disorders due to alcohol,0,0,2,5,23,48,127,329,572,723,737,577,640,462,244,141,81,4711
 2009,Mental and behavioral disorders due to psychoactive substance use,0,0,10,51,109,134,126,132,120,58,25,19,17,9,4,8,5,827
 2009,Diseases of the nervous system and sense organs,49,158,88,102,101,98,175,285,462,587,762,849,1551,2511,3126,4306,5625,20835
 2009,Meningitis,0,5,2,2,2,1,3,2,9,7,9,14,18,26,15,29,25,169
@@ -853,7 +853,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2010,"Endocrine, nutritional, and metabolic diseases",27,51,20,38,59,61,104,226,399,616,931,1137,1687,3194,4122,5475,11086,29233
 2010,Diabetes mellitus,0,1,4,10,19,29,48,112,215,367,593,806,1292,2617,3443,4606,8969,23131
 2010,Mental and behavioral disorders,2,5,12,48,126,194,245,432,734,882,904,769,969,1422,2100,4035,12200,25079
-2010,Mental and behavioral disorders durch Alkohol,0,0,2,4,26,53,120,291,587,761,785,624,620,506,265,153,116,4913
+2010,Mental and behavioral disorders due to alcohol,0,0,2,4,26,53,120,291,587,761,785,624,620,506,265,153,116,4913
 2010,Mental and behavioral disorders due to psychoactive substance use,0,0,7,38,94,131,113,121,110,65,39,9,11,15,8,6,7,774
 2010,Diseases of the nervous system and sense organs,52,131,74,105,69,112,134,285,480,608,770,870,1515,2625,3370,4504,6164,21868
 2010,Meningitis,3,2,1,1,0,1,2,4,6,8,4,6,11,21,17,34,21,142
@@ -935,7 +935,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2011,"Endocrine, nutritional, and metabolic diseases",29,64,19,44,62,95,111,207,422,645,921,1187,1566,3198,4185,5585,11482,29822
 2011,Diabetes mellitus,0,3,5,10,20,26,38,92,234,394,585,849,1173,2595,3542,4677,9309,23552
 2011,Mental and behavioral disorders,0,5,10,39,118,173,189,438,686,905,926,832,904,1486,2293,4549,13560,27113
-2011,Mental and behavioral disorders durch Alkohol,0,0,2,3,21,46,97,283,552,783,797,675,568,535,281,173,111,4927
+2011,Mental and behavioral disorders due to alcohol,0,0,2,3,21,46,97,283,552,783,797,675,568,535,281,173,111,4927
 2011,Mental and behavioral disorders due to psychoactive substance use,0,0,4,33,84,120,82,132,95,71,49,16,10,13,4,6,2,721
 2011,Diseases of the nervous system and sense organs,63,141,56,110,79,118,146,279,471,633,747,977,1386,2811,3552,4538,6624,22731
 2011,Meningitis,2,5,0,5,0,2,2,4,5,15,6,6,10,26,21,35,22,166
@@ -1017,7 +1017,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2012,"Endocrine, nutritional, and metabolic diseases",31,59,30,45,41,69,85,217,400,637,869,1342,1570,3041,4293,5813,12063,30605
 2012,Diabetes mellitus,0,4,3,12,13,28,33,103,219,369,547,923,1183,2442,3569,4863,9744,24055
 2012,Mental and behavioral disorders,0,2,8,47,92,186,199,410,720,915,948,893,858,1595,2694,5231,16092,30890
-2012,Mental and behavioral disorders durch Alkohol,0,0,1,3,11,47,82,249,541,776,822,725,539,550,339,180,126,4991
+2012,Mental and behavioral disorders due to alcohol,0,0,1,3,11,47,82,249,541,776,822,725,539,550,339,180,126,4991
 2012,Mental and behavioral disorders due to psychoactive substance use,0,0,4,32,73,130,108,137,127,75,47,17,11,11,4,0,8,784
 2012,Diseases of the nervous system and sense organs,59,95,61,79,104,107,131,247,476,637,768,1058,1464,3010,3999,4802,7190,24287
 2012,Meningitis,3,5,2,2,2,1,7,1,8,7,2,8,13,11,28,18,26,144
@@ -1099,7 +1099,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2013,"Endocrine, nutritional, and metabolic diseases",30,50,23,38,53,67,82,227,419,659,1011,1389,1591,3109,4669,5794,11986,31197
 2013,Diabetes mellitus,0,3,8,8,19,17,34,107,196,390,627,942,1164,2443,3862,4853,9584,24257
 2013,Mental and behavioral disorders,0,4,13,50,96,188,232,401,715,1002,1013,1082,1018,1847,3361,5795,19300,36117
-2013,Mental and behavioral disorders durch Alkohol,0,1,0,8,15,47,105,241,552,851,846,844,629,588,386,203,157,5473
+2013,Mental and behavioral disorders due to alcohol,0,1,0,8,15,47,105,241,552,851,846,844,629,588,386,203,157,5473
 2013,Mental and behavioral disorders due to psychoactive substance use,0,0,4,33,72,130,113,137,116,80,51,19,14,6,7,3,6,791
 2013,Diseases of the nervous system and sense organs,52,126,62,113,112,107,133,214,438,677,853,1032,1408,2981,4410,5018,8056,25792
 2013,Meningitis,3,3,1,4,1,2,4,1,3,7,10,11,16,17,24,17,16,140
@@ -1181,7 +1181,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2014,"Endocrine, nutritional, and metabolic diseases",22,43,16,44,50,70,86,189,403,619,942,1288,1507,2634,4570,5251,11536,29270
 2014,Diabetes mellitus,0,2,6,11,20,22,33,100,218,347,598,887,1093,2061,3746,4391,9108,22643
 2014,Mental and behavioral disorders,1,4,8,32,98,181,241,351,637,963,1014,1081,862,1758,3358,5705,19641,35935
-2014,Mental and behavioral disorders durch Alkohol,0,0,4,2,16,53,101,204,474,802,826,850,488,570,392,183,149,5114
+2014,Mental and behavioral disorders due to alcohol,0,0,4,2,16,53,101,204,474,802,826,850,488,570,392,183,149,5114
 2014,Mental and behavioral disorders due to psychoactive substance use,0,0,2,26,78,112,126,112,119,93,71,39,10,10,10,4,7,819
 2014,Diseases of the nervous system and sense organs,53,110,67,92,95,104,122,222,450,666,859,1173,1358,2808,4623,4935,8151,25888
 2014,Meningitis,5,4,1,2,0,1,1,3,3,4,6,10,12,16,18,18,20,124
@@ -1263,7 +1263,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2015,"Endocrine, nutritional, and metabolic diseases",36,46,24,27,54,86,117,162,376,664,931,1319,1784,2712,4843,5918,13375,32474
 2015,Diabetes mellitus,0,3,6,5,16,28,44,81,184,387,584,960,1293,2070,3866,4804,10070,24401
 2015,Mental and behavioral disorders,0,4,10,52,129,211,276,329,641,974,1132,1172,1083,1890,4281,6971,25435,44590
-2015,Mental and behavioral disorders durch Alkohol,0,0,0,3,20,53,110,186,469,786,924,899,668,568,435,199,170,5490
+2015,Mental and behavioral disorders due to alcohol,0,0,0,3,20,53,110,186,469,786,924,899,668,568,435,199,170,5490
 2015,Mental and behavioral disorders due to psychoactive substance use,0,0,5,39,89,145,143,109,121,101,61,31,11,10,11,5,8,889
 2015,Diseases of the nervous system and sense organs,57,129,85,86,99,109,145,227,424,731,931,1209,1572,2965,5285,5892,9195,29141
 2015,Meningitis,2,4,0,2,2,0,0,4,3,11,15,7,6,13,25,21,17,132
@@ -1345,7 +1345,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2016,"Endocrine, nutritional, and metabolic diseases",33,49,15,32,45,76,100,161,344,649,999,1387,1782,2292,4559,5821,12905,31249
 2016,Diabetes mellitus,0,1,6,9,17,27,36,61,163,375,615,947,1269,1711,3593,4652,9577,23059
 2016,Mental and behavioral disorders,0,0,13,30,78,177,249,345,624,961,1144,1186,1188,1773,4505,7652,26333,46258
-2016,Mental and behavioral disorders durch Alkohol,0,0,0,4,11,45,99,180,445,749,946,909,691,483,476,250,164,5452
+2016,Mental and behavioral disorders due to alcohol,0,0,0,4,11,45,99,180,445,749,946,909,691,483,476,250,164,5452
 2016,Mental and behavioral disorders due to psychoactive substance use,0,0,10,18,57,115,136,138,113,118,66,39,17,12,2,2,5,848
 2016,Diseases of the nervous system and sense organs,50,115,72,85,82,107,132,214,375,675,927,1234,1731,2753,5558,6111,9578,29799
 2016,Meningitis,2,4,0,0,0,3,4,4,4,8,4,14,16,13,21,22,18,137
@@ -1427,7 +1427,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2017,"Endocrine, nutritional, and metabolic diseases",24,54,19,32,49,75,113,180,372,654,991,1496,2011,2359,4666,6458,14355,33908
 2017,Diabetes mellitus,0,4,4,8,16,33,36,79,185,380,621,1029,1447,1748,3618,5130,10517,24855
 2017,Mental and behavioral disorders,1,5,15,29,64,145,186,295,511,901,1027,1179,1299,1825,5175,9060,30920,52637
-2017,Mental and behavioral disorders durch Alkohol,0,0,0,3,13,59,63,176,358,667,795,853,733,444,484,291,173,5112
+2017,Mental and behavioral disorders due to alcohol,0,0,0,3,13,59,63,176,358,667,795,853,733,444,484,291,173,5112
 2017,Mental and behavioral disorders due to psychoactive substance use,0,0,8,13,34,68,99,89,101,104,73,43,15,5,8,3,8,671
 2017,Diseases of the nervous system and sense organs,43,102,63,76,111,118,143,180,381,685,1003,1311,1936,2709,5990,7123,10419,32393
 2017,Meningitis,0,2,0,1,2,0,2,2,2,10,10,10,10,7,34,17,17,126
@@ -1509,7 +1509,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2018,"Endocrine, nutritional, and metabolic diseases",27,51,28,42,49,76,106,177,363,656,1020,1416,2114,2328,4785,6889,14513,34640
 2018,Diabetes mellitus,1,1,11,14,15,22,41,78,193,391,628,932,1528,1726,3570,5364,10341,24856
 2018,Mental and behavioral disorders,1,7,11,34,58,148,195,331,453,817,1125,1188,1437,1995,5667,10690,33896,58053
-2018,Mental and behavioral disorders durch Alkohol,0,0,0,5,10,49,77,180,297,573,856,873,787,458,480,292,166,5103
+2018,Mental and behavioral disorders due to alcohol,0,0,0,5,10,49,77,180,297,573,856,873,787,458,480,292,166,5103
 2018,Mental and behavioral disorders due to psychoactive substance use,0,0,8,19,33,72,103,114,99,103,73,35,23,10,12,10,10,724
 2018,Diseases of the nervous system and sense organs,45,128,67,73,96,115,135,174,334,734,1101,1439,2092,2827,6242,8056,11234,34892
 2018,Meningitis,4,3,0,3,1,1,4,3,3,9,10,4,20,10,27,19,19,140
@@ -1591,7 +1591,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2019,"Endocrine, nutritional, and metabolic diseases",25,50,18,41,43,67,117,148,308,631,1038,1458,1970,2370,4192,6850,14300,33626
 2019,Diabetes mellitus,0,2,2,4,16,22,52,65,149,358,666,967,1390,1747,3145,5322,9988,23895
 2019,Mental and behavioral disorders,2,10,16,20,54,118,226,262,434,742,1043,1191,1336,1970,5277,11087,34051,57839
-2019,Mental and behavioral disorders durch Alkohol,0,0,2,0,11,44,101,137,282,529,791,824,679,496,454,275,181,4806
+2019,Mental and behavioral disorders due to alcohol,0,0,2,0,11,44,101,137,282,529,791,824,679,496,454,275,181,4806
 2019,Mental and behavioral disorders due to psychoactive substance use,0,0,9,9,31,53,96,97,90,94,68,41,29,15,10,5,15,662
 2019,Diseases of the nervous system and sense organs,44,123,69,75,94,106,156,185,354,681,1106,1438,2054,2618,5919,8157,11046,34225
 2019,Meningitis,2,3,1,0,1,3,4,2,7,8,9,13,6,13,15,26,13,126
@@ -1673,7 +1673,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2020,"Endocrine, nutritional, and metabolic diseases",19,45,17,31,42,74,134,195,321,614,1055,1589,2065,2591,4178,7444,16214,36628
 2020,Diabetes mellitus,0,0,0,11,17,30,55,108,162,334,620,1029,1468,1881,3061,5639,11388,25807
 2020,Mental and behavioral disorders,0,9,13,38,59,118,223,320,411,813,1158,1285,1504,2040,5169,11686,34767,59613
-2020,Mental and behavioral disorders durch Alkohol,0,0,0,3,11,46,103,153,257,564,839,848,773,469,425,326,193,5012
+2020,Mental and behavioral disorders due to alcohol,0,0,0,3,11,46,103,153,257,564,839,848,773,469,425,326,193,5012
 2020,Mental and behavioral disorders due to psychoactive substance use,0,0,0,0,27,53,89,114,92,109,79,40,26,9,0,10,14,695
 2020,Diseases of the nervous system and sense organs,32,112,46,79,64,126,156,210,292,616,1088,1437,2024,2918,5579,8720,11931,35430
 2020,Meningitis,0,0,0,0,0,0,0,4,0,0,0,12,8,17,12,20,17,102
@@ -1755,7 +1755,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2021,"Endocrine, nutritional, and metabolic diseases",20,59,17,29,45,62,115,212,337,640,1147,1597,2265,2926,3833,7609,16953,37866
 2021,Diabetes mellitus,0,0,0,9,19,24,41,95,167,341,649,1043,1544,2069,2773,5592,11615,25984
 2021,Mental and behavioral disorders,0,9,14,40,71,119,219,315,424,725,1141,1404,1549,2164,4654,11790,35352,59990
-2021,Mental and behavioral disorders durch Alkohol,0,0,0,0,19,40,99,169,268,488,775,896,749,546,361,330,222,4964
+2021,Mental and behavioral disorders due to alcohol,0,0,0,0,19,40,99,169,268,488,775,896,749,546,361,330,222,4964
 2021,Mental and behavioral disorders due to psychoactive substance use,0,0,0,0,33,54,84,97,72,90,74,44,21,0,8,0,15,641
 2021,Diseases of the nervous system and sense organs,33,100,53,85,93,125,147,183,288,585,1196,1545,2245,3113,4958,8902,12127,35778
 2021,Meningitis,0,0,0,0,0,0,0,0,0,0,0,6,0,16,14,23,15,101
@@ -1837,7 +1837,7 @@ Year,Cause of death,unter 1 Jahr,1 bis unter 15 Jahre,15 bis unter 20 Jahre,20 b
 2022,"Endocrine, nutritional, and metabolic diseases",27,58,23,28,56,74,133,178,291,624,1152,1659,2290,3263,4075,7966,18664,40561
 2022,Diabetes mellitus,0,0,0,13,16,30,63,77,151,352,683,1046,1513,2261,2824,5677,12180,26891
 2022,Mental and behavioral disorders,0,7,16,43,53,128,235,366,422,774,1155,1595,1779,2595,4900,13284,41425,68777
-2022,Mental and behavioral disorders durch Alkohol,0,0,0,0,0,40,108,193,247,513,801,1020,904,624,410,348,248,5471
+2022,Mental and behavioral disorders due to alcohol,0,0,0,0,0,40,108,193,247,513,801,1020,904,624,410,348,248,5471
 2022,Mental and behavioral disorders due to psychoactive substance use,0,0,10,20,27,56,82,97,98,103,76,40,33,15,11,6,12,686
 2022,Diseases of the nervous system and sense organs,30,138,81,99,85,127,136,193,327,649,1189,1740,2327,3474,5271,9742,13672,39280
 2022,Meningitis,0,8,0,0,0,0,0,0,0,0,0,12,0,11,24,24,30,138
